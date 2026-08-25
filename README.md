@@ -2,7 +2,15 @@
 
 **Internship Project (Phase 2) | VitaCure Healthcare Private Limited**  
 **Analyst:** A. Shanthan Kumar | **Period:** October 2025 – January 2026  
-**Tools:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Streamlit · Plotly
+**Tools:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Streamlit · Plotly · SQL
+
+---
+
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vitacure-noshow-prediction.streamlit.app/)
+
+👉 **[https://vitacure-noshow-prediction.streamlit.app/](https://vitacure-noshow-prediction.streamlit.app/)**
 
 ---
 
@@ -14,6 +22,7 @@ This is the second phase of a Data Analyst internship at VitaCure Healthcare, a 
 
 **Solution Delivered:**
 - A booking-level dataset (950 records) with lead time, reminder status, and patient history features
+- SQL analysis (SQLite) with 7 sections and 15+ business queries covering risk segmentation, therapist performance, and demand trends
 - Two classification models (Logistic Regression, Random Forest) predicting no-show risk
 - Feature importance analysis identifying the strongest drivers of no-shows
 - A simple weekly demand forecast baseline
@@ -30,6 +39,7 @@ This is the second phase of a Data Analyst internship at VitaCure Healthcare, a 
 | Best model (by recall) | Logistic Regression — catches 68% of actual no-shows |
 | Strongest no-show predictor | Reminder not sent |
 | Other key drivers | Prior cancellations, booking lead time, Monday bookings |
+| Very High Risk segment (SQL) | 83.3% actual no-show rate |
 
 ---
 
@@ -49,9 +59,12 @@ vitacure-noshow-prediction/
 │
 ├── vitacure_bookings_phase2.csv         # Booking-level dataset (950 rows × 14 features)
 ├── VitaCure_NoShow_Prediction.ipynb     # Full Python EDA + ML notebook (executed)
-├── app.py                                # Streamlit no-show risk scoring tool
-├── noshow_model.pkl                      # Trained Random Forest model + encoders
-├── requirements.txt                      # Python dependencies
+├── VitaCure_SQL_Analysis.ipynb          # SQL analysis notebook using SQLite (executed)
+├── vitacure_sql_analysis.sql            # Pure SQL queries file (15+ queries, 7 sections)
+├── vitacure.db                          # SQLite database
+├── app.py                               # Streamlit no-show risk scoring tool
+├── noshow_model.pkl                     # Trained Random Forest model + encoders
+├── requirements.txt                     # Python dependencies
 └── README.md
 ```
 
@@ -70,7 +83,7 @@ vitacure-noshow-prediction/
 | Therapist_Experience_Years | Years of experience |
 | Condition | Medical condition being treated |
 | Session_Type | In-Clinic / Home Visit / Teleconsultation |
-| City | Patient city |
+| Location | Area in Warangal (Warangal / Hanamkonda / Kazipet) |
 | Lead_Time_Days | Days between booking and scheduled session |
 | Prior_Cancellations | Patient's historical cancellation count |
 | Reminder_Sent | Whether a reminder was sent (1/0) |
@@ -80,27 +93,38 @@ vitacure-noshow-prediction/
 
 ## 🛠️ How to Run
 
-### Notebook
+### Notebooks
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 jupyter notebook VitaCure_NoShow_Prediction.ipynb
+jupyter notebook VitaCure_SQL_Analysis.ipynb
 ```
 
-### Streamlit App
+### Streamlit App (Local)
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### Or use the live deployed app:
+👉 **[https://vitacure-noshow-prediction.streamlit.app/](https://vitacure-noshow-prediction.streamlit.app/)**
+
 ---
 
-## 📈 App Features
+## 📈 App Pages
 
 | Page | Description |
 |---|---|
 | Risk Predictor | Enter booking details to get a real-time no-show risk score with a visual gauge |
-| Booking Overview | KPIs, weekly volume trend, therapist/city/condition breakdowns |
+| Booking Overview | KPIs, weekly volume trend, therapist/location/condition breakdowns |
 | Model Insights | Feature importance chart and model performance comparison table |
+
+---
+
+## 🔗 Related Project
+
+📊 **Phase 1 — VitaCure Operations Analytics Dashboard (Power BI)**  
+[https://github.com/ashanthan03/vitacure-healthcare-analytics](https://github.com/ashanthan03/vitacure-healthcare-analytics)
 
 ---
 
