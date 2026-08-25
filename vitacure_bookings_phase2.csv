@@ -1,0 +1,951 @@
+Booking_ID,Patient_ID,Scheduled_Date,Day_of_Week,Hour,Therapist,Therapist_Experience_Years,Condition,Session_Type,Location,Lead_Time_Days,Prior_Cancellations,Reminder_Sent,No_Show
+BKG0734,PT0310,2024-10-11,Friday,11,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Warangal,13,2,1,0
+BKG0145,PT0247,2024-10-11,Friday,16,Dr. Rohan Verma,2,Sports Injury,Teleconsultation,Hanamkonda,9,0,1,1
+BKG0482,PT0264,2024-10-11,Friday,17,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Kazipet,4,1,1,0
+BKG0383,PT0118,2024-10-11,Friday,13,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Warangal,9,2,1,0
+BKG0517,PT0092,2024-10-11,Friday,10,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Warangal,6,0,1,0
+BKG0898,PT0194,2024-10-11,Friday,18,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hanamkonda,12,1,1,0
+BKG0853,PT0337,2024-10-11,Friday,10,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Warangal,1,0,0,1
+BKG0469,PT0281,2024-10-11,Friday,9,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Kazipet,9,0,1,0
+BKG0380,PT0106,2024-10-11,Friday,11,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Hanamkonda,11,0,1,0
+BKG0109,PT0028,2024-10-11,Friday,14,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,4,0,1,1
+BKG0877,PT0104,2024-10-12,Saturday,11,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Hanamkonda,4,0,1,1
+BKG0713,PT0325,2024-10-12,Saturday,10,Dr. Kavitha Reddy,6,Shoulder Injury,Teleconsultation,Hanamkonda,8,0,1,0
+BKG0449,PT0117,2024-10-12,Saturday,18,Dr. Meena Iyer,11,Arthritis,Home Visit,Warangal,5,1,0,0
+BKG0499,PT0216,2024-10-12,Saturday,11,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Hanamkonda,2,0,1,0
+BKG0564,PT0005,2024-10-12,Saturday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Warangal,5,0,1,0
+BKG0262,PT0022,2024-10-12,Saturday,15,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Warangal,12,0,1,1
+BKG0171,PT0301,2024-10-12,Saturday,16,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Kazipet,5,0,0,0
+BKG0896,PT0185,2024-10-12,Saturday,15,Dr. Priya Sharma,8,Sports Injury,Home Visit,Warangal,7,0,1,0
+BKG0360,PT0231,2024-10-12,Saturday,9,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Warangal,10,1,1,0
+BKG0474,PT0276,2024-10-12,Saturday,12,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Kazipet,4,2,1,0
+BKG0069,PT0001,2024-10-12,Saturday,14,Dr. Arjun Nair,3,Arthritis,Home Visit,Hanamkonda,14,0,1,0
+BKG0721,PT0076,2024-10-13,Sunday,13,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,4,1,1,0
+BKG0152,PT0015,2024-10-13,Sunday,14,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,8,3,1,0
+BKG0640,PT0177,2024-10-13,Sunday,19,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Warangal,11,0,1,0
+BKG0840,PT0335,2024-10-13,Sunday,14,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Warangal,1,0,1,0
+BKG0858,PT0061,2024-10-13,Sunday,17,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Warangal,13,0,1,0
+BKG0135,PT0238,2024-10-13,Sunday,10,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Hanamkonda,7,0,0,0
+BKG0930,PT0220,2024-10-13,Sunday,11,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Warangal,5,1,0,0
+BKG0391,PT0041,2024-10-13,Sunday,17,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Hanamkonda,8,0,1,0
+BKG0182,PT0198,2024-10-13,Sunday,15,Dr. Arjun Nair,3,Fracture Recovery,Teleconsultation,Kazipet,5,0,0,0
+BKG0223,PT0198,2024-10-13,Sunday,9,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Warangal,11,1,0,0
+BKG0374,PT0314,2024-10-13,Sunday,9,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Kazipet,3,0,0,0
+BKG0855,PT0283,2024-10-14,Monday,16,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,2,0,1,0
+BKG0414,PT0206,2024-10-14,Monday,15,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Kazipet,1,3,1,0
+BKG0205,PT0159,2024-10-14,Monday,11,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,3,0,1,0
+BKG0285,PT0047,2024-10-14,Monday,15,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Warangal,2,0,1,0
+BKG0281,PT0007,2024-10-14,Monday,18,Dr. Rohan Verma,2,Arthritis,Home Visit,Hanamkonda,6,3,1,0
+BKG0453,PT0014,2024-10-14,Monday,11,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Warangal,2,0,0,1
+BKG0446,PT0127,2024-10-14,Monday,11,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hanamkonda,5,3,1,0
+BKG0174,PT0306,2024-10-14,Monday,12,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Warangal,6,0,1,0
+BKG0231,PT0198,2024-10-14,Monday,15,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Warangal,6,0,1,1
+BKG0120,PT0017,2024-10-14,Monday,10,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Warangal,7,0,0,0
+BKG0176,PT0043,2024-10-14,Monday,9,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,6,2,1,0
+BKG0119,PT0004,2024-10-14,Monday,13,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hanamkonda,8,1,1,1
+BKG0871,PT0242,2024-10-14,Monday,19,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,13,0,1,1
+BKG0405,PT0195,2024-10-14,Monday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Warangal,3,0,1,0
+BKG0599,PT0338,2024-10-14,Monday,13,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Hanamkonda,11,1,1,1
+BKG0028,PT0288,2024-10-14,Monday,16,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Hanamkonda,11,0,1,0
+BKG0567,PT0154,2024-10-14,Monday,16,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Warangal,11,1,1,0
+BKG0104,PT0191,2024-10-15,Tuesday,11,Dr. Arjun Nair,3,Sports Injury,Home Visit,Warangal,5,1,1,1
+BKG0443,PT0027,2024-10-15,Tuesday,12,Dr. Arjun Nair,3,Arthritis,In-Clinic,Hanamkonda,9,0,1,1
+BKG0487,PT0050,2024-10-15,Tuesday,13,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Hanamkonda,8,0,1,0
+BKG0384,PT0001,2024-10-15,Tuesday,13,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Kazipet,5,3,0,0
+BKG0201,PT0021,2024-10-15,Tuesday,17,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Kazipet,7,2,1,0
+BKG0395,PT0054,2024-10-15,Tuesday,17,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Hanamkonda,4,1,1,0
+BKG0638,PT0097,2024-10-16,Wednesday,15,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Kazipet,1,0,1,0
+BKG0521,PT0095,2024-10-16,Wednesday,14,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Hanamkonda,4,1,0,0
+BKG0597,PT0156,2024-10-16,Wednesday,14,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Kazipet,5,1,1,1
+BKG0353,PT0261,2024-10-16,Wednesday,19,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Kazipet,3,1,0,0
+BKG0489,PT0061,2024-10-16,Wednesday,16,Dr. Meena Iyer,11,Arthritis,In-Clinic,Hanamkonda,3,1,1,0
+BKG0089,PT0073,2024-10-16,Wednesday,11,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Warangal,4,1,1,0
+BKG0715,PT0159,2024-10-16,Wednesday,17,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Kazipet,8,1,1,0
+BKG0250,PT0030,2024-10-16,Wednesday,10,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Warangal,9,2,0,0
+BKG0305,PT0334,2024-10-16,Wednesday,12,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Kazipet,4,2,1,1
+BKG0843,PT0173,2024-10-16,Wednesday,9,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hanamkonda,6,0,0,0
+BKG0485,PT0252,2024-10-16,Wednesday,11,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Kazipet,9,1,0,0
+BKG0037,PT0067,2024-10-16,Wednesday,14,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Warangal,3,0,1,1
+BKG0124,PT0145,2024-10-17,Thursday,15,Dr. Rohan Verma,2,Sports Injury,Home Visit,Warangal,5,0,0,0
+BKG0870,PT0127,2024-10-17,Thursday,16,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,5,0,1,0
+BKG0074,PT0213,2024-10-17,Thursday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Hanamkonda,3,0,0,0
+BKG0481,PT0076,2024-10-17,Thursday,18,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Hanamkonda,6,0,1,0
+BKG0766,PT0165,2024-10-17,Thursday,19,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,12,0,0,1
+BKG0464,PT0262,2024-10-17,Thursday,13,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Kazipet,1,2,0,0
+BKG0105,PT0272,2024-10-17,Thursday,15,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Warangal,4,2,1,0
+BKG0790,PT0100,2024-10-17,Thursday,11,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Hanamkonda,7,0,1,0
+BKG0316,PT0209,2024-10-17,Thursday,17,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Warangal,3,0,1,1
+BKG0747,PT0285,2024-10-17,Thursday,19,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Hanamkonda,10,0,0,0
+BKG0025,PT0068,2024-10-18,Friday,18,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Warangal,4,0,1,0
+BKG0865,PT0186,2024-10-18,Friday,17,Dr. Arjun Nair,3,Arthritis,In-Clinic,Kazipet,4,1,1,0
+BKG0506,PT0008,2024-10-18,Friday,11,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hanamkonda,2,2,1,0
+BKG0873,PT0013,2024-10-18,Friday,15,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Warangal,13,1,1,0
+BKG0141,PT0327,2024-10-18,Friday,11,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hanamkonda,5,0,1,0
+BKG0592,PT0089,2024-10-18,Friday,11,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Hanamkonda,2,0,1,0
+BKG0882,PT0325,2024-10-18,Friday,12,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,8,0,0,0
+BKG0438,PT0157,2024-10-18,Friday,16,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Hanamkonda,4,0,1,0
+BKG0513,PT0221,2024-10-19,Saturday,11,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Warangal,2,0,0,0
+BKG0493,PT0155,2024-10-19,Saturday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Kazipet,6,2,1,1
+BKG0558,PT0246,2024-10-19,Saturday,19,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,3,0,1,0
+BKG0114,PT0159,2024-10-19,Saturday,12,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Warangal,1,2,0,0
+BKG0468,PT0197,2024-10-19,Saturday,13,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,4,0,1,0
+BKG0080,PT0325,2024-10-19,Saturday,9,Dr. Meena Iyer,11,Sports Injury,Home Visit,Hanamkonda,3,0,0,0
+BKG0806,PT0078,2024-10-19,Saturday,14,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,1,3,0,0
+BKG0705,PT0170,2024-10-19,Saturday,10,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Warangal,2,0,1,0
+BKG0899,PT0266,2024-10-19,Saturday,18,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Warangal,9,0,1,0
+BKG0232,PT0056,2024-10-19,Saturday,14,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Hanamkonda,4,0,1,1
+BKG0770,PT0285,2024-10-20,Sunday,16,Dr. Arjun Nair,3,Sports Injury,Home Visit,Warangal,6,0,1,0
+BKG0192,PT0265,2024-10-20,Sunday,10,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,8,2,0,1
+BKG0789,PT0022,2024-10-20,Sunday,11,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Hanamkonda,7,1,1,1
+BKG0745,PT0335,2024-10-20,Sunday,16,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Warangal,13,0,1,0
+BKG0255,PT0318,2024-10-21,Monday,17,Dr. Kavitha Reddy,6,Shoulder Injury,Teleconsultation,Kazipet,1,1,1,0
+BKG0822,PT0022,2024-10-21,Monday,14,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Kazipet,8,0,1,1
+BKG0117,PT0112,2024-10-21,Monday,17,Dr. Meena Iyer,11,Sports Injury,Home Visit,Kazipet,1,0,1,0
+BKG0795,PT0317,2024-10-21,Monday,15,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hanamkonda,12,0,1,0
+BKG0566,PT0344,2024-10-21,Monday,12,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Warangal,9,0,1,0
+BKG0163,PT0075,2024-10-21,Monday,12,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Hanamkonda,6,0,1,0
+BKG0477,PT0020,2024-10-21,Monday,9,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Kazipet,2,0,0,0
+BKG0246,PT0249,2024-10-21,Monday,16,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Kazipet,4,1,1,0
+BKG0115,PT0239,2024-10-21,Monday,16,Dr. Priya Sharma,8,Arthritis,In-Clinic,Hanamkonda,5,0,1,0
+BKG0697,PT0102,2024-10-21,Monday,17,Dr. Meena Iyer,11,Arthritis,Home Visit,Hanamkonda,1,0,1,1
+BKG0667,PT0271,2024-10-21,Monday,17,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hanamkonda,6,0,1,0
+BKG0149,PT0272,2024-10-21,Monday,16,Dr. Priya Sharma,8,Sports Injury,Home Visit,Hanamkonda,5,2,1,1
+BKG0935,PT0312,2024-10-21,Monday,14,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Kazipet,9,1,0,0
+BKG0413,PT0235,2024-10-21,Monday,13,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Warangal,10,0,0,0
+BKG0161,PT0053,2024-10-21,Monday,15,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,3,0,1,1
+BKG0228,PT0067,2024-10-22,Tuesday,11,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,6,1,1,0
+BKG0017,PT0330,2024-10-22,Tuesday,15,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Warangal,4,0,1,0
+BKG0573,PT0042,2024-10-22,Tuesday,14,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Warangal,7,0,1,0
+BKG0711,PT0246,2024-10-22,Tuesday,16,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Kazipet,2,0,1,0
+BKG0077,PT0222,2024-10-22,Tuesday,9,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Warangal,5,0,0,1
+BKG0518,PT0195,2024-10-22,Tuesday,15,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Warangal,1,0,1,0
+BKG0389,PT0052,2024-10-22,Tuesday,12,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Kazipet,4,1,1,0
+BKG0805,PT0307,2024-10-22,Tuesday,16,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Warangal,5,1,0,1
+BKG0323,PT0265,2024-10-23,Wednesday,13,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Hanamkonda,3,0,1,1
+BKG0158,PT0090,2024-10-23,Wednesday,15,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Hanamkonda,10,0,1,0
+BKG0337,PT0173,2024-10-23,Wednesday,9,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Warangal,7,1,0,0
+BKG0001,PT0275,2024-10-23,Wednesday,12,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,1,0,1,0
+BKG0514,PT0100,2024-10-23,Wednesday,15,Dr. Priya Sharma,8,Arthritis,Home Visit,Hanamkonda,6,2,1,0
+BKG0641,PT0308,2024-10-23,Wednesday,12,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Hanamkonda,3,0,1,0
+BKG0125,PT0266,2024-10-23,Wednesday,12,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Warangal,8,0,1,0
+BKG0676,PT0276,2024-10-23,Wednesday,10,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Warangal,8,1,0,0
+BKG0596,PT0252,2024-10-23,Wednesday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Warangal,2,1,0,0
+BKG0014,PT0275,2024-10-23,Wednesday,18,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Hanamkonda,7,0,1,0
+BKG0512,PT0204,2024-10-23,Wednesday,11,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Warangal,2,1,0,1
+BKG0772,PT0054,2024-10-23,Wednesday,12,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hanamkonda,2,0,0,0
+BKG0221,PT0261,2024-10-24,Thursday,9,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Hanamkonda,2,3,1,1
+BKG0728,PT0042,2024-10-24,Thursday,16,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Kazipet,3,1,1,0
+BKG0349,PT0090,2024-10-24,Thursday,18,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,5,2,1,1
+BKG0134,PT0327,2024-10-24,Thursday,12,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Warangal,11,0,1,0
+BKG0377,PT0066,2024-10-24,Thursday,14,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Kazipet,4,0,1,0
+BKG0609,PT0227,2024-10-24,Thursday,10,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Hanamkonda,5,0,1,0
+BKG0122,PT0197,2024-10-24,Thursday,11,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Hanamkonda,3,0,0,0
+BKG0193,PT0150,2024-10-24,Thursday,18,Dr. Suresh Pillai,15,Arthritis,Home Visit,Kazipet,6,0,1,0
+BKG0083,PT0219,2024-10-24,Thursday,19,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Warangal,4,0,1,0
+BKG0503,PT0218,2024-10-25,Friday,17,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Kazipet,11,0,1,0
+BKG0737,PT0281,2024-10-25,Friday,18,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Warangal,5,2,0,1
+BKG0815,PT0324,2024-10-25,Friday,15,Dr. Meena Iyer,11,Sports Injury,Home Visit,Warangal,13,0,0,0
+BKG0656,PT0188,2024-10-25,Friday,12,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Warangal,10,1,0,0
+BKG0537,PT0190,2024-10-25,Friday,12,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Warangal,14,1,1,0
+BKG0300,PT0340,2024-10-25,Friday,10,Dr. Meena Iyer,11,Arthritis,Teleconsultation,Kazipet,7,0,0,0
+BKG0235,PT0150,2024-10-25,Friday,12,Dr. Rohan Verma,2,Cervical Spondylosis,Teleconsultation,Warangal,7,0,1,0
+BKG0245,PT0230,2024-10-25,Friday,11,Dr. Meena Iyer,11,Sports Injury,Home Visit,Hanamkonda,5,1,1,0
+BKG0608,PT0345,2024-10-26,Saturday,11,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,4,0,1,0
+BKG0510,PT0255,2024-10-26,Saturday,19,Dr. Suresh Pillai,15,Arthritis,Teleconsultation,Hanamkonda,8,1,0,0
+BKG0162,PT0112,2024-10-26,Saturday,10,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Kazipet,1,1,1,0
+BKG0002,PT0290,2024-10-26,Saturday,18,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Warangal,7,1,1,0
+BKG0336,PT0292,2024-10-26,Saturday,10,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,6,0,1,0
+BKG0928,PT0220,2024-10-26,Saturday,19,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Warangal,6,3,0,0
+BKG0056,PT0204,2024-10-26,Saturday,18,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,3,0,0,0
+BKG0867,PT0256,2024-10-26,Saturday,13,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Hanamkonda,10,1,1,0
+BKG0347,PT0124,2024-10-26,Saturday,11,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Hanamkonda,7,0,0,0
+BKG0021,PT0339,2024-10-26,Saturday,18,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Warangal,9,1,1,0
+BKG0407,PT0208,2024-10-26,Saturday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hanamkonda,12,2,1,1
+BKG0668,PT0132,2024-10-26,Saturday,13,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Kazipet,9,1,1,0
+BKG0829,PT0080,2024-10-26,Saturday,13,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hanamkonda,12,0,1,0
+BKG0015,PT0243,2024-10-26,Saturday,10,Dr. Suresh Pillai,15,Sports Injury,Teleconsultation,Hanamkonda,5,3,1,0
+BKG0820,PT0211,2024-10-27,Sunday,12,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Hanamkonda,12,0,1,0
+BKG0942,PT0250,2024-10-27,Sunday,13,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Hanamkonda,8,1,0,0
+BKG0054,PT0185,2024-10-27,Sunday,14,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Warangal,7,0,1,0
+BKG0683,PT0231,2024-10-27,Sunday,14,Dr. Meena Iyer,11,Arthritis,In-Clinic,Hanamkonda,9,0,0,1
+BKG0065,PT0012,2024-10-27,Sunday,9,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Warangal,8,2,1,0
+BKG0060,PT0282,2024-10-27,Sunday,11,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Kazipet,5,0,1,0
+BKG0437,PT0134,2024-10-27,Sunday,11,Dr. Arjun Nair,3,Post-Stroke Recovery,Teleconsultation,Kazipet,3,1,0,0
+BKG0719,PT0278,2024-10-27,Sunday,10,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Hanamkonda,14,1,1,0
+BKG0604,PT0195,2024-10-28,Monday,18,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Warangal,6,0,0,0
+BKG0634,PT0140,2024-10-28,Monday,11,Dr. Priya Sharma,8,Sports Injury,Home Visit,Hanamkonda,2,0,1,1
+BKG0292,PT0005,2024-10-28,Monday,18,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Warangal,3,1,1,0
+BKG0341,PT0255,2024-10-28,Monday,12,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hanamkonda,8,0,1,0
+BKG0256,PT0332,2024-10-28,Monday,12,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Hanamkonda,4,2,1,1
+BKG0271,PT0300,2024-10-28,Monday,19,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,1,1,0,0
+BKG0798,PT0048,2024-10-28,Monday,12,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Hanamkonda,9,2,0,1
+BKG0495,PT0086,2024-10-28,Monday,18,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Warangal,5,3,1,1
+BKG0274,PT0078,2024-10-28,Monday,11,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Kazipet,11,1,1,0
+BKG0949,PT0184,2024-10-28,Monday,10,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Hanamkonda,3,0,1,0
+BKG0776,PT0190,2024-10-28,Monday,18,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Kazipet,8,0,0,0
+BKG0722,PT0248,2024-10-28,Monday,10,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Warangal,6,1,1,0
+BKG0911,PT0054,2024-10-28,Monday,17,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hanamkonda,4,0,1,1
+BKG0938,PT0055,2024-10-29,Tuesday,15,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Kazipet,7,0,1,0
+BKG0282,PT0108,2024-10-29,Tuesday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Warangal,10,0,1,0
+BKG0881,PT0329,2024-10-29,Tuesday,15,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Kazipet,11,0,0,1
+BKG0565,PT0105,2024-10-29,Tuesday,15,Dr. Meena Iyer,11,Arthritis,In-Clinic,Hanamkonda,7,1,1,0
+BKG0272,PT0122,2024-10-29,Tuesday,15,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Warangal,4,1,0,0
+BKG0796,PT0061,2024-10-29,Tuesday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Kazipet,10,1,0,0
+BKG0544,PT0263,2024-10-29,Tuesday,12,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Hanamkonda,10,0,0,0
+BKG0199,PT0265,2024-10-29,Tuesday,19,Dr. Meena Iyer,11,Arthritis,In-Clinic,Warangal,12,0,1,0
+BKG0475,PT0072,2024-10-29,Tuesday,12,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Warangal,3,0,1,0
+BKG0031,PT0188,2024-10-29,Tuesday,11,Dr. Priya Sharma,8,Shoulder Injury,Teleconsultation,Hanamkonda,2,0,0,1
+BKG0169,PT0293,2024-10-29,Tuesday,12,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Kazipet,10,2,1,0
+BKG0267,PT0176,2024-10-30,Wednesday,13,Dr. Meena Iyer,11,Sports Injury,Teleconsultation,Warangal,5,0,0,1
+BKG0108,PT0114,2024-10-30,Wednesday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Hanamkonda,7,0,1,1
+BKG0132,PT0317,2024-10-30,Wednesday,15,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Kazipet,13,1,1,0
+BKG0476,PT0046,2024-10-30,Wednesday,13,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Kazipet,3,1,0,0
+BKG0433,PT0027,2024-10-30,Wednesday,17,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Kazipet,5,0,1,1
+BKG0505,PT0078,2024-10-30,Wednesday,10,Dr. Meena Iyer,11,Sports Injury,Home Visit,Warangal,9,0,1,0
+BKG0900,PT0279,2024-10-30,Wednesday,15,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Warangal,3,0,1,0
+BKG0266,PT0095,2024-10-30,Wednesday,14,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Kazipet,4,1,1,1
+BKG0167,PT0008,2024-10-30,Wednesday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Hanamkonda,4,0,0,0
+BKG0661,PT0229,2024-10-30,Wednesday,12,Dr. Meena Iyer,11,Sports Injury,Teleconsultation,Hanamkonda,8,0,1,0
+BKG0844,PT0059,2024-10-30,Wednesday,10,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Kazipet,9,1,0,1
+BKG0842,PT0147,2024-10-30,Wednesday,19,Dr. Arjun Nair,3,Lower Back Pain,Teleconsultation,Hanamkonda,3,0,1,0
+BKG0146,PT0186,2024-10-30,Wednesday,18,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,10,0,0,0
+BKG0352,PT0263,2024-10-30,Wednesday,16,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Warangal,8,0,1,0
+BKG0110,PT0244,2024-10-31,Thursday,10,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,12,0,1,1
+BKG0466,PT0159,2024-10-31,Thursday,15,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,5,0,1,1
+BKG0458,PT0222,2024-10-31,Thursday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Kazipet,8,2,1,0
+BKG0836,PT0163,2024-10-31,Thursday,16,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hanamkonda,4,2,1,1
+BKG0551,PT0208,2024-10-31,Thursday,14,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Hanamkonda,3,2,1,0
+BKG0889,PT0302,2024-10-31,Thursday,19,Dr. Rohan Verma,2,Sports Injury,Home Visit,Warangal,2,0,1,0
+BKG0701,PT0244,2024-10-31,Thursday,16,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Warangal,5,0,1,0
+BKG0042,PT0095,2024-10-31,Thursday,12,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Warangal,1,0,1,0
+BKG0181,PT0019,2024-10-31,Thursday,18,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Kazipet,3,3,0,0
+BKG0492,PT0085,2024-10-31,Thursday,18,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Warangal,3,2,1,1
+BKG0769,PT0334,2024-10-31,Thursday,14,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Kazipet,8,0,0,0
+BKG0787,PT0234,2024-11-01,Friday,17,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Kazipet,1,0,0,0
+BKG0810,PT0038,2024-11-01,Friday,13,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Kazipet,2,0,1,0
+BKG0094,PT0259,2024-11-01,Friday,10,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Kazipet,4,0,0,1
+BKG0539,PT0235,2024-11-01,Friday,17,Dr. Rohan Verma,2,Sports Injury,Home Visit,Hanamkonda,5,1,1,1
+BKG0322,PT0288,2024-11-01,Friday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Kazipet,8,1,1,0
+BKG0261,PT0279,2024-11-01,Friday,19,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Hanamkonda,3,0,1,0
+BKG0263,PT0182,2024-11-01,Friday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Kazipet,10,2,0,1
+BKG0133,PT0053,2024-11-01,Friday,19,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Warangal,2,0,0,0
+BKG0418,PT0030,2024-11-01,Friday,11,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Kazipet,3,1,1,0
+BKG0926,PT0072,2024-11-01,Friday,12,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,4,3,1,0
+BKG0194,PT0094,2024-11-01,Friday,10,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Warangal,4,2,1,1
+BKG0197,PT0204,2024-11-01,Friday,18,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Hanamkonda,1,1,1,0
+BKG0224,PT0301,2024-11-02,Saturday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Warangal,11,2,1,0
+BKG0647,PT0252,2024-11-02,Saturday,10,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,6,2,1,0
+BKG0901,PT0122,2024-11-02,Saturday,11,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Hanamkonda,1,1,0,0
+BKG0404,PT0278,2024-11-02,Saturday,10,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Warangal,9,0,1,0
+BKG0663,PT0129,2024-11-02,Saturday,19,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Kazipet,6,1,1,0
+BKG0582,PT0286,2024-11-02,Saturday,17,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Hanamkonda,11,0,0,0
+BKG0804,PT0166,2024-11-02,Saturday,15,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Kazipet,3,3,1,0
+BKG0183,PT0030,2024-11-03,Sunday,15,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Warangal,6,0,0,0
+BKG0674,PT0207,2024-11-03,Sunday,10,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,5,1,1,0
+BKG0799,PT0211,2024-11-03,Sunday,15,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,2,1,0,0
+BKG0665,PT0222,2024-11-03,Sunday,10,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,4,0,0,0
+BKG0841,PT0081,2024-11-03,Sunday,11,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Warangal,2,2,0,1
+BKG0415,PT0111,2024-11-04,Monday,17,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Warangal,3,3,1,1
+BKG0097,PT0127,2024-11-04,Monday,9,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,6,1,1,0
+BKG0216,PT0079,2024-11-04,Monday,19,Dr. Meena Iyer,11,Arthritis,Home Visit,Kazipet,5,0,1,0
+BKG0024,PT0223,2024-11-04,Monday,17,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Kazipet,3,0,1,0
+BKG0854,PT0057,2024-11-04,Monday,15,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Warangal,5,0,1,0
+BKG0581,PT0203,2024-11-04,Monday,13,Dr. Meena Iyer,11,Arthritis,In-Clinic,Warangal,2,0,1,0
+BKG0143,PT0325,2024-11-04,Monday,13,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hanamkonda,6,0,0,1
+BKG0402,PT0006,2024-11-04,Monday,10,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Warangal,2,1,1,1
+BKG0559,PT0026,2024-11-05,Tuesday,11,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Kazipet,2,0,1,0
+BKG0714,PT0255,2024-11-05,Tuesday,15,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,6,1,1,0
+BKG0297,PT0023,2024-11-05,Tuesday,13,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Warangal,5,1,1,1
+BKG0308,PT0285,2024-11-05,Tuesday,9,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Warangal,4,1,1,0
+BKG0594,PT0221,2024-11-05,Tuesday,11,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Hanamkonda,14,0,0,0
+BKG0357,PT0244,2024-11-05,Tuesday,15,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Kazipet,12,0,1,0
+BKG0838,PT0029,2024-11-05,Tuesday,12,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Warangal,11,1,1,0
+BKG0200,PT0222,2024-11-05,Tuesday,13,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,1,0,0,0
+BKG0777,PT0247,2024-11-05,Tuesday,12,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Warangal,14,0,1,0
+BKG0319,PT0175,2024-11-05,Tuesday,13,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Warangal,8,1,0,1
+BKG0540,PT0242,2024-11-05,Tuesday,14,Dr. Meena Iyer,11,Arthritis,In-Clinic,Hanamkonda,2,0,1,0
+BKG0170,PT0196,2024-11-05,Tuesday,16,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,8,3,1,1
+BKG0147,PT0006,2024-11-06,Wednesday,18,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Warangal,7,0,1,1
+BKG0650,PT0325,2024-11-06,Wednesday,10,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Warangal,8,0,1,1
+BKG0627,PT0153,2024-11-06,Wednesday,15,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Hanamkonda,4,1,1,0
+BKG0129,PT0191,2024-11-06,Wednesday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Hanamkonda,5,0,1,0
+BKG0645,PT0237,2024-11-06,Wednesday,16,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Warangal,3,0,0,0
+BKG0321,PT0105,2024-11-06,Wednesday,9,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hanamkonda,5,1,1,0
+BKG0621,PT0262,2024-11-06,Wednesday,15,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Hanamkonda,9,0,1,1
+BKG0591,PT0066,2024-11-06,Wednesday,10,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Hanamkonda,6,0,0,0
+BKG0578,PT0314,2024-11-06,Wednesday,10,Dr. Arjun Nair,3,Arthritis,Teleconsultation,Warangal,6,0,0,1
+BKG0358,PT0058,2024-11-06,Wednesday,18,Dr. Meena Iyer,11,Arthritis,In-Clinic,Hanamkonda,7,0,1,0
+BKG0651,PT0061,2024-11-06,Wednesday,13,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Kazipet,2,1,1,0
+BKG0148,PT0079,2024-11-06,Wednesday,18,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Warangal,9,0,0,0
+BKG0749,PT0136,2024-11-06,Wednesday,17,Dr. Priya Sharma,8,Knee Rehabilitation,Teleconsultation,Warangal,2,1,0,0
+BKG0904,PT0211,2024-11-06,Wednesday,17,Dr. Rohan Verma,2,Sports Injury,Home Visit,Warangal,1,3,0,1
+BKG0244,PT0208,2024-11-06,Wednesday,10,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hanamkonda,4,0,1,1
+BKG0862,PT0160,2024-11-06,Wednesday,17,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Warangal,1,1,1,0
+BKG0814,PT0250,2024-11-06,Wednesday,11,Dr. Arjun Nair,3,Sports Injury,Teleconsultation,Hanamkonda,5,1,0,1
+BKG0059,PT0282,2024-11-06,Wednesday,15,Dr. Suresh Pillai,15,Arthritis,Teleconsultation,Kazipet,1,1,1,0
+BKG0700,PT0231,2024-11-06,Wednesday,18,Dr. Rohan Verma,2,Sports Injury,Home Visit,Hanamkonda,7,0,1,1
+BKG0803,PT0085,2024-11-06,Wednesday,18,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Warangal,2,0,0,1
+BKG0218,PT0262,2024-11-06,Wednesday,13,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Hanamkonda,3,0,1,0
+BKG0153,PT0018,2024-11-07,Thursday,15,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Kazipet,7,0,0,0
+BKG0612,PT0061,2024-11-07,Thursday,13,Dr. Priya Sharma,8,Sports Injury,Home Visit,Warangal,5,0,0,0
+BKG0435,PT0299,2024-11-07,Thursday,10,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,7,0,1,1
+BKG0009,PT0031,2024-11-07,Thursday,16,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Warangal,2,0,1,0
+BKG0847,PT0160,2024-11-07,Thursday,17,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Warangal,5,2,1,0
+BKG0818,PT0276,2024-11-07,Thursday,18,Dr. Arjun Nair,3,Arthritis,Home Visit,Hanamkonda,6,0,1,1
+BKG0465,PT0328,2024-11-07,Thursday,19,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Hanamkonda,4,1,1,1
+BKG0461,PT0287,2024-11-07,Thursday,10,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Kazipet,7,2,1,0
+BKG0325,PT0281,2024-11-07,Thursday,11,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,9,3,1,1
+BKG0605,PT0062,2024-11-07,Thursday,17,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Kazipet,3,0,0,1
+BKG0239,PT0316,2024-11-08,Friday,12,Dr. Priya Sharma,8,Arthritis,In-Clinic,Warangal,2,3,1,0
+BKG0538,PT0185,2024-11-08,Friday,13,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,3,1,1,0
+BKG0561,PT0012,2024-11-08,Friday,11,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,1,1,1,0
+BKG0225,PT0300,2024-11-08,Friday,13,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Warangal,5,1,1,0
+BKG0178,PT0121,2024-11-08,Friday,11,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Warangal,12,3,1,0
+BKG0516,PT0028,2024-11-08,Friday,14,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Warangal,8,0,1,0
+BKG0584,PT0283,2024-11-08,Friday,19,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,9,3,1,1
+BKG0471,PT0347,2024-11-08,Friday,12,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Hanamkonda,12,0,1,0
+BKG0922,PT0196,2024-11-08,Friday,16,Dr. Priya Sharma,8,Cervical Spondylosis,Teleconsultation,Hanamkonda,2,2,0,1
+BKG0436,PT0013,2024-11-08,Friday,14,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Warangal,3,1,1,0
+BKG0073,PT0096,2024-11-08,Friday,13,Dr. Meena Iyer,11,Knee Rehabilitation,Teleconsultation,Hanamkonda,11,0,1,0
+BKG0633,PT0007,2024-11-08,Friday,12,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Kazipet,4,0,1,0
+BKG0259,PT0235,2024-11-08,Friday,14,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Warangal,8,1,0,0
+BKG0071,PT0190,2024-11-09,Saturday,13,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Hanamkonda,8,1,1,1
+BKG0784,PT0120,2024-11-09,Saturday,16,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hanamkonda,10,0,0,0
+BKG0394,PT0175,2024-11-09,Saturday,14,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Hanamkonda,4,2,1,0
+BKG0884,PT0176,2024-11-09,Saturday,13,Dr. Rohan Verma,2,Arthritis,Home Visit,Hanamkonda,8,0,1,1
+BKG0887,PT0011,2024-11-09,Saturday,13,Dr. Kavitha Reddy,6,Sports Injury,Teleconsultation,Warangal,7,0,1,0
+BKG0283,PT0170,2024-11-09,Saturday,16,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hanamkonda,4,1,0,0
+BKG0047,PT0330,2024-11-09,Saturday,10,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Hanamkonda,1,1,0,0
+BKG0530,PT0124,2024-11-09,Saturday,13,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hanamkonda,9,2,1,0
+BKG0682,PT0003,2024-11-09,Saturday,15,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Kazipet,4,1,1,0
+BKG0011,PT0338,2024-11-09,Saturday,9,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Warangal,10,0,1,1
+BKG0448,PT0168,2024-11-09,Saturday,17,Dr. Priya Sharma,8,Sports Injury,Home Visit,Kazipet,10,0,1,0
+BKG0040,PT0111,2024-11-09,Saturday,12,Dr. Rohan Verma,2,Arthritis,Teleconsultation,Warangal,10,1,1,1
+BKG0601,PT0135,2024-11-10,Sunday,16,Dr. Arjun Nair,3,Lower Back Pain,Teleconsultation,Warangal,10,1,0,0
+BKG0704,PT0323,2024-11-10,Sunday,11,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,8,3,1,0
+BKG0202,PT0223,2024-11-10,Sunday,18,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Hanamkonda,4,0,1,1
+BKG0343,PT0288,2024-11-10,Sunday,17,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Hanamkonda,6,3,0,1
+BKG0334,PT0066,2024-11-10,Sunday,16,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Hanamkonda,6,0,1,1
+BKG0655,PT0030,2024-11-10,Sunday,17,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hanamkonda,3,0,1,0
+BKG0241,PT0327,2024-11-10,Sunday,14,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Warangal,4,0,1,0
+BKG0018,PT0100,2024-11-10,Sunday,17,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Hanamkonda,8,0,1,0
+BKG0409,PT0029,2024-11-10,Sunday,14,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Warangal,6,0,1,0
+BKG0118,PT0308,2024-11-10,Sunday,12,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Warangal,10,2,0,0
+BKG0681,PT0006,2024-11-10,Sunday,16,Dr. Rohan Verma,2,Lower Back Pain,Teleconsultation,Warangal,12,0,0,1
+BKG0048,PT0349,2024-11-11,Monday,13,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Hanamkonda,1,1,0,1
+BKG0610,PT0065,2024-11-11,Monday,13,Dr. Priya Sharma,8,Knee Rehabilitation,Teleconsultation,Warangal,1,3,1,1
+BKG0112,PT0253,2024-11-11,Monday,11,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hanamkonda,1,0,1,1
+BKG0773,PT0308,2024-11-11,Monday,10,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Kazipet,12,1,1,0
+BKG0602,PT0052,2024-11-11,Monday,13,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Hanamkonda,11,3,1,0
+BKG0137,PT0215,2024-11-11,Monday,16,Dr. Meena Iyer,11,Sports Injury,Home Visit,Warangal,8,1,1,0
+BKG0398,PT0201,2024-11-11,Monday,12,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hanamkonda,13,0,0,0
+BKG0636,PT0069,2024-11-11,Monday,17,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,7,0,0,0
+BKG0527,PT0346,2024-11-11,Monday,12,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Warangal,10,2,1,1
+BKG0560,PT0191,2024-11-11,Monday,16,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Hanamkonda,8,0,1,1
+BKG0238,PT0025,2024-11-11,Monday,15,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Hanamkonda,1,0,0,0
+BKG0392,PT0227,2024-11-12,Tuesday,15,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Kazipet,4,0,1,1
+BKG0860,PT0111,2024-11-12,Tuesday,11,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Hanamkonda,4,1,0,0
+BKG0275,PT0158,2024-11-12,Tuesday,16,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,6,3,1,0
+BKG0694,PT0152,2024-11-12,Tuesday,9,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,1,0,1,0
+BKG0265,PT0125,2024-11-12,Tuesday,12,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Kazipet,8,0,0,0
+BKG0177,PT0047,2024-11-12,Tuesday,12,Dr. Priya Sharma,8,Arthritis,Teleconsultation,Hanamkonda,3,0,0,0
+BKG0725,PT0120,2024-11-12,Tuesday,12,Dr. Meena Iyer,11,Arthritis,Home Visit,Hanamkonda,2,1,1,0
+BKG0553,PT0155,2024-11-12,Tuesday,16,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Warangal,2,1,1,0
+BKG0041,PT0321,2024-11-12,Tuesday,13,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Warangal,1,1,1,0
+BKG0317,PT0197,2024-11-12,Tuesday,15,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Warangal,4,0,0,0
+BKG0616,PT0089,2024-11-12,Tuesday,15,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hanamkonda,10,0,0,1
+BKG0473,PT0171,2024-11-12,Tuesday,13,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Hanamkonda,7,1,1,0
+BKG0049,PT0243,2024-11-12,Tuesday,17,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Warangal,10,0,0,1
+BKG0111,PT0206,2024-11-13,Wednesday,19,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hanamkonda,1,2,0,0
+BKG0941,PT0040,2024-11-13,Wednesday,12,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Warangal,6,1,1,0
+BKG0731,PT0224,2024-11-13,Wednesday,15,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Kazipet,10,1,1,0
+BKG0085,PT0131,2024-11-13,Wednesday,11,Dr. Meena Iyer,11,Sports Injury,Home Visit,Warangal,4,0,1,0
+BKG0552,PT0049,2024-11-13,Wednesday,12,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Kazipet,7,0,1,0
+BKG0490,PT0128,2024-11-13,Wednesday,17,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Kazipet,1,0,1,0
+BKG0821,PT0003,2024-11-13,Wednesday,13,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Warangal,2,2,1,0
+BKG0127,PT0264,2024-11-13,Wednesday,14,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Kazipet,3,2,0,1
+BKG0835,PT0062,2024-11-13,Wednesday,13,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Hanamkonda,4,0,0,0
+BKG0209,PT0244,2024-11-14,Thursday,16,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Hanamkonda,8,2,1,0
+BKG0034,PT0093,2024-11-14,Thursday,16,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Warangal,10,2,1,0
+BKG0370,PT0259,2024-11-14,Thursday,13,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,2,1,0,0
+BKG0652,PT0336,2024-11-14,Thursday,14,Dr. Kavitha Reddy,6,Shoulder Injury,Teleconsultation,Hanamkonda,6,1,1,1
+BKG0166,PT0232,2024-11-14,Thursday,16,Dr. Suresh Pillai,15,Arthritis,Home Visit,Hanamkonda,6,0,1,0
+BKG0576,PT0282,2024-11-15,Friday,15,Dr. Priya Sharma,8,Sports Injury,Home Visit,Warangal,6,0,1,0
+BKG0570,PT0313,2024-11-15,Friday,12,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Warangal,7,0,1,0
+BKG0624,PT0321,2024-11-15,Friday,12,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Hanamkonda,14,0,1,1
+BKG0906,PT0295,2024-11-15,Friday,11,Dr. Suresh Pillai,15,Shoulder Injury,Teleconsultation,Hanamkonda,6,0,1,0
+BKG0696,PT0273,2024-11-15,Friday,18,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Kazipet,4,2,1,0
+BKG0076,PT0041,2024-11-15,Friday,10,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Warangal,5,2,1,0
+BKG0950,PT0194,2024-11-15,Friday,16,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Kazipet,13,0,1,0
+BKG0284,PT0272,2024-11-15,Friday,10,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Warangal,1,0,1,0
+BKG0320,PT0019,2024-11-15,Friday,11,Dr. Priya Sharma,8,Arthritis,Teleconsultation,Kazipet,5,0,1,0
+BKG0630,PT0106,2024-11-16,Saturday,14,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Hanamkonda,7,1,1,0
+BKG0290,PT0154,2024-11-16,Saturday,10,Dr. Rohan Verma,2,Sports Injury,Teleconsultation,Warangal,1,2,1,1
+BKG0211,PT0235,2024-11-16,Saturday,15,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Hanamkonda,4,0,1,0
+BKG0445,PT0310,2024-11-16,Saturday,16,Dr. Meena Iyer,11,Arthritis,Home Visit,Kazipet,5,0,0,0
+BKG0233,PT0205,2024-11-16,Saturday,12,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,10,0,1,0
+BKG0126,PT0104,2024-11-16,Saturday,16,Dr. Priya Sharma,8,Sports Injury,Home Visit,Warangal,13,0,1,0
+BKG0827,PT0228,2024-11-16,Saturday,12,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Kazipet,11,1,1,1
+BKG0102,PT0252,2024-11-16,Saturday,18,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Kazipet,11,0,0,0
+BKG0168,PT0232,2024-11-16,Saturday,15,Dr. Suresh Pillai,15,Arthritis,Home Visit,Kazipet,4,0,1,0
+BKG0387,PT0315,2024-11-17,Sunday,13,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Hanamkonda,7,1,1,0
+BKG0698,PT0303,2024-11-17,Sunday,13,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Warangal,1,0,0,1
+BKG0226,PT0004,2024-11-17,Sunday,13,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Warangal,4,0,0,0
+BKG0491,PT0042,2024-11-17,Sunday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Hanamkonda,12,0,1,0
+BKG0457,PT0269,2024-11-17,Sunday,17,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Warangal,9,0,1,0
+BKG0038,PT0106,2024-11-17,Sunday,13,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hanamkonda,7,0,0,0
+BKG0107,PT0025,2024-11-17,Sunday,17,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Hanamkonda,4,1,0,0
+BKG0598,PT0053,2024-11-17,Sunday,15,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Hanamkonda,7,0,1,1
+BKG0819,PT0228,2024-11-17,Sunday,19,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Warangal,3,0,1,0
+BKG0892,PT0317,2024-11-17,Sunday,9,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Warangal,8,1,1,1
+BKG0764,PT0340,2024-11-18,Monday,15,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Warangal,5,0,1,0
+BKG0642,PT0023,2024-11-18,Monday,18,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,5,2,1,0
+BKG0342,PT0263,2024-11-18,Monday,16,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Kazipet,7,1,1,1
+BKG0330,PT0057,2024-11-18,Monday,17,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,8,0,0,1
+BKG0214,PT0255,2024-11-18,Monday,18,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hanamkonda,9,0,0,0
+BKG0816,PT0067,2024-11-18,Monday,12,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Kazipet,2,0,1,0
+BKG0856,PT0224,2024-11-18,Monday,14,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,5,1,1,0
+BKG0442,PT0018,2024-11-18,Monday,15,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,10,1,1,0
+BKG0732,PT0158,2024-11-18,Monday,10,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Warangal,5,0,1,0
+BKG0568,PT0238,2024-11-18,Monday,13,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Warangal,5,0,0,0
+BKG0251,PT0081,2024-11-18,Monday,14,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Hanamkonda,7,0,1,1
+BKG0399,PT0201,2024-11-18,Monday,10,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hanamkonda,8,0,1,1
+BKG0454,PT0194,2024-11-19,Tuesday,15,Dr. Rohan Verma,2,Arthritis,Home Visit,Hanamkonda,11,1,1,1
+BKG0090,PT0318,2024-11-19,Tuesday,10,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,1,0,1,0
+BKG0679,PT0037,2024-11-19,Tuesday,15,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Warangal,8,1,1,1
+BKG0098,PT0322,2024-11-19,Tuesday,15,Dr. Priya Sharma,8,Arthritis,Home Visit,Hanamkonda,4,0,1,0
+BKG0219,PT0002,2024-11-19,Tuesday,15,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Warangal,6,2,1,1
+BKG0618,PT0114,2024-11-19,Tuesday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Kazipet,5,1,0,0
+BKG0619,PT0036,2024-11-19,Tuesday,14,Dr. Suresh Pillai,15,Arthritis,Home Visit,Warangal,6,0,0,0
+BKG0450,PT0078,2024-11-19,Tuesday,11,Dr. Arjun Nair,3,Lower Back Pain,Teleconsultation,Hanamkonda,7,0,0,1
+BKG0356,PT0349,2024-11-19,Tuesday,18,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,6,3,0,1
+BKG0890,PT0224,2024-11-19,Tuesday,13,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Warangal,2,0,1,0
+BKG0932,PT0047,2024-11-19,Tuesday,18,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Kazipet,7,0,1,0
+BKG0217,PT0039,2024-11-19,Tuesday,14,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,2,2,1,0
+BKG0577,PT0150,2024-11-19,Tuesday,12,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Kazipet,5,2,1,0
+BKG0767,PT0340,2024-11-19,Tuesday,12,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Hanamkonda,2,2,0,0
+BKG0678,PT0052,2024-11-20,Wednesday,17,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hanamkonda,4,1,1,0
+BKG0626,PT0318,2024-11-20,Wednesday,9,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Warangal,5,2,0,0
+BKG0451,PT0089,2024-11-20,Wednesday,17,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Warangal,2,3,0,0
+BKG0649,PT0119,2024-11-20,Wednesday,11,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Warangal,1,0,1,0
+BKG0885,PT0236,2024-11-20,Wednesday,9,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Warangal,4,0,1,1
+BKG0851,PT0321,2024-11-20,Wednesday,14,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Warangal,2,0,1,0
+BKG0555,PT0077,2024-11-20,Wednesday,11,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,10,0,1,1
+BKG0301,PT0343,2024-11-20,Wednesday,13,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Warangal,6,0,1,0
+BKG0441,PT0229,2024-11-20,Wednesday,15,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Warangal,2,0,1,0
+BKG0946,PT0137,2024-11-20,Wednesday,15,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Hanamkonda,10,0,0,0
+BKG0431,PT0179,2024-11-20,Wednesday,12,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Warangal,8,2,1,0
+BKG0828,PT0275,2024-11-20,Wednesday,19,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Warangal,4,0,1,0
+BKG0742,PT0027,2024-11-20,Wednesday,19,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Kazipet,2,0,1,0
+BKG0172,PT0268,2024-11-21,Thursday,13,Dr. Arjun Nair,3,Arthritis,Home Visit,Kazipet,6,0,1,1
+BKG0774,PT0280,2024-11-21,Thursday,11,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Kazipet,9,1,0,0
+BKG0839,PT0004,2024-11-21,Thursday,12,Dr. Suresh Pillai,15,Arthritis,Home Visit,Warangal,10,0,0,0
+BKG0222,PT0297,2024-11-21,Thursday,10,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hanamkonda,3,0,1,0
+BKG0629,PT0112,2024-11-21,Thursday,13,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Warangal,1,0,1,0
+BKG0423,PT0345,2024-11-21,Thursday,16,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Hanamkonda,1,0,1,0
+BKG0659,PT0034,2024-11-21,Thursday,17,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Hanamkonda,1,0,0,1
+BKG0762,PT0295,2024-11-21,Thursday,11,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Warangal,4,0,1,1
+BKG0287,PT0109,2024-11-21,Thursday,16,Dr. Suresh Pillai,15,Cervical Spondylosis,Teleconsultation,Warangal,1,1,1,0
+BKG0813,PT0043,2024-11-22,Friday,9,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,6,1,0,0
+BKG0273,PT0208,2024-11-22,Friday,9,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Hanamkonda,4,0,0,0
+BKG0298,PT0281,2024-11-22,Friday,15,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Hanamkonda,14,2,0,0
+BKG0332,PT0047,2024-11-22,Friday,9,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,7,2,1,1
+BKG0925,PT0060,2024-11-22,Friday,17,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Hanamkonda,5,0,0,1
+BKG0079,PT0140,2024-11-22,Friday,19,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Warangal,7,0,0,0
+BKG0184,PT0152,2024-11-22,Friday,16,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,4,0,1,0
+BKG0801,PT0106,2024-11-22,Friday,14,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Hanamkonda,13,0,1,0
+BKG0155,PT0061,2024-11-22,Friday,11,Dr. Meena Iyer,11,Cervical Spondylosis,Teleconsultation,Hanamkonda,8,0,0,1
+BKG0864,PT0320,2024-11-23,Saturday,15,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Kazipet,6,0,1,1
+BKG0869,PT0162,2024-11-23,Saturday,14,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,4,3,1,0
+BKG0369,PT0323,2024-11-23,Saturday,19,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Warangal,6,0,1,0
+BKG0408,PT0123,2024-11-23,Saturday,14,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Warangal,2,0,0,0
+BKG0452,PT0234,2024-11-23,Saturday,13,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Kazipet,5,1,0,0
+BKG0684,PT0005,2024-11-23,Saturday,13,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Hanamkonda,10,0,1,1
+BKG0280,PT0348,2024-11-23,Saturday,11,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,10,1,1,0
+BKG0852,PT0280,2024-11-23,Saturday,14,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Hanamkonda,9,0,0,1
+BKG0376,PT0053,2024-11-23,Saturday,10,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hanamkonda,3,1,1,0
+BKG0020,PT0101,2024-11-23,Saturday,11,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,7,2,0,0
+BKG0198,PT0186,2024-11-23,Saturday,13,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Kazipet,10,1,0,0
+BKG0686,PT0277,2024-11-24,Sunday,13,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hanamkonda,10,3,1,0
+BKG0296,PT0040,2024-11-24,Sunday,19,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Kazipet,10,3,1,1
+BKG0837,PT0225,2024-11-24,Sunday,12,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,9,0,1,0
+BKG0768,PT0346,2024-11-24,Sunday,12,Dr. Arjun Nair,3,Arthritis,Teleconsultation,Hanamkonda,4,0,1,0
+BKG0329,PT0001,2024-11-24,Sunday,11,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hanamkonda,3,0,1,0
+BKG0190,PT0266,2024-11-24,Sunday,12,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Kazipet,10,2,1,1
+BKG0934,PT0330,2024-11-24,Sunday,11,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Warangal,1,0,0,1
+BKG0643,PT0105,2024-11-24,Sunday,15,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,5,3,0,0
+BKG0264,PT0269,2024-11-25,Monday,15,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,1,1,1,0
+BKG0520,PT0192,2024-11-25,Monday,13,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Warangal,6,0,1,0
+BKG0738,PT0052,2024-11-25,Monday,13,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Warangal,3,0,0,0
+BKG0247,PT0005,2024-11-25,Monday,18,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Hanamkonda,7,1,0,0
+BKG0478,PT0312,2024-11-25,Monday,15,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Warangal,13,0,0,0
+BKG0043,PT0112,2024-11-25,Monday,11,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Kazipet,4,0,1,0
+BKG0302,PT0194,2024-11-25,Monday,15,Dr. Meena Iyer,11,Arthritis,Home Visit,Hanamkonda,5,0,1,0
+BKG0912,PT0045,2024-11-25,Monday,17,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,1,3,0,0
+BKG0523,PT0232,2024-11-25,Monday,15,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Warangal,5,0,1,0
+BKG0653,PT0266,2024-11-26,Tuesday,14,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,3,0,1,0
+BKG0291,PT0108,2024-11-26,Tuesday,9,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Warangal,9,0,1,1
+BKG0269,PT0087,2024-11-26,Tuesday,16,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,4,0,0,0
+BKG0635,PT0157,2024-11-26,Tuesday,14,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,9,1,1,0
+BKG0310,PT0193,2024-11-26,Tuesday,9,Dr. Kavitha Reddy,6,Cervical Spondylosis,Teleconsultation,Hanamkonda,8,3,1,0
+BKG0623,PT0155,2024-11-26,Tuesday,10,Dr. Rohan Verma,2,Shoulder Injury,Teleconsultation,Kazipet,6,1,1,1
+BKG0100,PT0221,2024-11-26,Tuesday,10,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,5,0,1,0
+BKG0845,PT0328,2024-11-26,Tuesday,15,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Warangal,1,2,0,1
+BKG0937,PT0067,2024-11-26,Tuesday,10,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Warangal,7,3,1,1
+BKG0524,PT0326,2024-11-26,Tuesday,15,Dr. Arjun Nair,3,Arthritis,In-Clinic,Hanamkonda,4,0,1,1
+BKG0057,PT0040,2024-11-26,Tuesday,18,Dr. Priya Sharma,8,Arthritis,Home Visit,Kazipet,9,2,1,1
+BKG0808,PT0325,2024-11-26,Tuesday,18,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Kazipet,6,2,1,1
+BKG0923,PT0130,2024-11-26,Tuesday,10,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Kazipet,1,0,1,0
+BKG0536,PT0059,2024-11-27,Wednesday,12,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Hanamkonda,6,0,1,0
+BKG0786,PT0033,2024-11-27,Wednesday,12,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,14,3,1,0
+BKG0180,PT0166,2024-11-27,Wednesday,12,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Warangal,2,0,1,0
+BKG0677,PT0064,2024-11-27,Wednesday,12,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Hanamkonda,7,2,1,0
+BKG0087,PT0230,2024-11-27,Wednesday,9,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Warangal,4,0,1,0
+BKG0672,PT0022,2024-11-27,Wednesday,17,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Hanamkonda,1,0,1,0
+BKG0106,PT0202,2024-11-27,Wednesday,12,Dr. Priya Sharma,8,Sports Injury,Teleconsultation,Hanamkonda,14,1,1,0
+BKG0944,PT0013,2024-11-27,Wednesday,15,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Kazipet,5,0,0,1
+BKG0140,PT0328,2024-11-27,Wednesday,14,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hanamkonda,5,3,1,0
+BKG0428,PT0101,2024-11-27,Wednesday,16,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hanamkonda,4,0,0,0
+BKG0257,PT0297,2024-11-27,Wednesday,14,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Warangal,12,0,1,0
+BKG0883,PT0008,2024-11-27,Wednesday,11,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Hanamkonda,7,0,0,0
+BKG0386,PT0262,2024-11-28,Thursday,18,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,1,2,1,0
+BKG0765,PT0337,2024-11-28,Thursday,10,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hanamkonda,4,3,1,0
+BKG0792,PT0337,2024-11-28,Thursday,18,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Kazipet,1,1,1,1
+BKG0288,PT0210,2024-11-28,Thursday,18,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Hanamkonda,7,0,1,1
+BKG0236,PT0080,2024-11-28,Thursday,16,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Hanamkonda,6,1,0,0
+BKG0533,PT0340,2024-11-28,Thursday,13,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Warangal,7,0,1,0
+BKG0807,PT0317,2024-11-28,Thursday,12,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Warangal,2,1,1,0
+BKG0212,PT0256,2024-11-28,Thursday,13,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Kazipet,3,0,1,0
+BKG0229,PT0208,2024-11-28,Thursday,15,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Warangal,6,0,1,1
+BKG0585,PT0113,2024-11-28,Thursday,13,Dr. Arjun Nair,3,Arthritis,Teleconsultation,Kazipet,5,1,0,1
+BKG0720,PT0188,2024-11-28,Thursday,17,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Hanamkonda,5,2,1,0
+BKG0344,PT0176,2024-11-28,Thursday,13,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Hanamkonda,2,1,0,0
+BKG0595,PT0300,2024-11-28,Thursday,14,Dr. Rohan Verma,2,Fracture Recovery,Teleconsultation,Kazipet,1,0,1,0
+BKG0157,PT0314,2024-11-28,Thursday,14,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Kazipet,7,1,1,0
+BKG0486,PT0053,2024-11-28,Thursday,12,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Hanamkonda,2,2,1,0
+BKG0496,PT0189,2024-11-28,Thursday,19,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Kazipet,14,0,1,0
+BKG0045,PT0306,2024-11-29,Friday,16,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hanamkonda,8,0,1,0
+BKG0507,PT0302,2024-11-29,Friday,13,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Kazipet,5,0,0,0
+BKG0903,PT0340,2024-11-29,Friday,13,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Kazipet,5,0,0,1
+BKG0378,PT0224,2024-11-29,Friday,11,Dr. Arjun Nair,3,Sports Injury,Teleconsultation,Kazipet,11,0,1,1
+BKG0895,PT0273,2024-11-29,Friday,11,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Kazipet,4,0,0,1
+BKG0754,PT0115,2024-11-29,Friday,16,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,6,0,1,0
+BKG0403,PT0030,2024-11-29,Friday,11,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,2,1,1,0
+BKG0662,PT0089,2024-11-30,Saturday,17,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Hanamkonda,4,2,0,1
+BKG0030,PT0063,2024-11-30,Saturday,13,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Warangal,2,0,1,0
+BKG0569,PT0194,2024-11-30,Saturday,14,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Hanamkonda,6,2,1,0
+BKG0248,PT0013,2024-11-30,Saturday,17,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Hanamkonda,4,0,1,0
+BKG0091,PT0084,2024-11-30,Saturday,15,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Warangal,5,0,1,0
+BKG0346,PT0182,2024-11-30,Saturday,17,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Warangal,7,0,1,1
+BKG0528,PT0262,2024-11-30,Saturday,19,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,14,3,1,1
+BKG0348,PT0313,2024-11-30,Saturday,12,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,4,2,0,0
+BKG0625,PT0335,2024-11-30,Saturday,16,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Warangal,2,0,1,1
+BKG0857,PT0144,2024-11-30,Saturday,16,Dr. Priya Sharma,8,Arthritis,In-Clinic,Hanamkonda,5,1,1,0
+BKG0268,PT0230,2024-11-30,Saturday,11,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Kazipet,12,0,1,0
+BKG0580,PT0201,2024-11-30,Saturday,15,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,3,1,1,0
+BKG0210,PT0255,2024-11-30,Saturday,19,Dr. Priya Sharma,8,Arthritis,In-Clinic,Hanamkonda,6,0,0,0
+BKG0588,PT0178,2024-12-01,Sunday,11,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Hanamkonda,2,3,0,0
+BKG0913,PT0155,2024-12-01,Sunday,14,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Kazipet,6,0,1,0
+BKG0689,PT0147,2024-12-01,Sunday,9,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Hanamkonda,5,1,1,0
+BKG0362,PT0061,2024-12-01,Sunday,13,Dr. Suresh Pillai,15,Shoulder Injury,Teleconsultation,Hanamkonda,12,1,1,0
+BKG0078,PT0321,2024-12-01,Sunday,9,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Warangal,1,0,0,0
+BKG0579,PT0100,2024-12-01,Sunday,13,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,8,0,1,1
+BKG0751,PT0280,2024-12-01,Sunday,12,Dr. Priya Sharma,8,Sports Injury,Home Visit,Hanamkonda,13,1,1,0
+BKG0044,PT0074,2024-12-01,Sunday,14,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Kazipet,5,0,1,1
+BKG0142,PT0156,2024-12-01,Sunday,18,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Warangal,6,0,0,0
+BKG0096,PT0318,2024-12-01,Sunday,14,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Kazipet,3,0,1,1
+BKG0429,PT0274,2024-12-02,Monday,16,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,4,0,1,0
+BKG0063,PT0011,2024-12-02,Monday,12,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Hanamkonda,8,0,1,0
+BKG0622,PT0276,2024-12-02,Monday,14,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Warangal,1,0,1,0
+BKG0615,PT0158,2024-12-02,Monday,14,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Hanamkonda,4,0,1,0
+BKG0908,PT0294,2024-12-02,Monday,12,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Warangal,3,0,1,0
+BKG0070,PT0015,2024-12-02,Monday,15,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Hanamkonda,4,0,1,0
+BKG0299,PT0198,2024-12-02,Monday,16,Dr. Meena Iyer,11,Arthritis,Home Visit,Warangal,11,1,1,0
+BKG0919,PT0234,2024-12-02,Monday,19,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Kazipet,2,1,1,0
+BKG0338,PT0211,2024-12-02,Monday,9,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Kazipet,9,0,1,1
+BKG0354,PT0281,2024-12-02,Monday,15,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Warangal,9,1,1,0
+BKG0313,PT0224,2024-12-03,Tuesday,19,Dr. Kavitha Reddy,6,Fracture Recovery,Teleconsultation,Hanamkonda,3,0,1,1
+BKG0526,PT0174,2024-12-03,Tuesday,17,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Warangal,5,0,1,0
+BKG0927,PT0074,2024-12-03,Tuesday,18,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hanamkonda,6,1,1,0
+BKG0003,PT0149,2024-12-03,Tuesday,10,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Kazipet,2,0,0,1
+BKG0006,PT0263,2024-12-03,Tuesday,11,Dr. Rohan Verma,2,Sports Injury,Home Visit,Warangal,4,3,1,0
+BKG0943,PT0189,2024-12-03,Tuesday,16,Dr. Arjun Nair,3,Sports Injury,Home Visit,Warangal,9,1,1,0
+BKG0426,PT0316,2024-12-03,Tuesday,15,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Kazipet,5,0,1,0
+BKG0863,PT0183,2024-12-03,Tuesday,18,Dr. Kavitha Reddy,6,Shoulder Injury,Teleconsultation,Kazipet,12,0,1,1
+BKG0945,PT0238,2024-12-03,Tuesday,17,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Hanamkonda,9,2,1,1
+BKG0420,PT0071,2024-12-03,Tuesday,10,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Kazipet,5,0,1,0
+BKG0208,PT0080,2024-12-03,Tuesday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Hanamkonda,4,1,1,0
+BKG0501,PT0264,2024-12-03,Tuesday,12,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hanamkonda,8,0,1,0
+BKG0947,PT0135,2024-12-03,Tuesday,10,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Warangal,3,0,0,0
+BKG0186,PT0149,2024-12-03,Tuesday,18,Dr. Meena Iyer,11,Post-Stroke Recovery,Teleconsultation,Warangal,1,1,1,0
+BKG0160,PT0061,2024-12-03,Tuesday,14,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Hanamkonda,12,0,1,0
+BKG0687,PT0278,2024-12-04,Wednesday,18,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Hanamkonda,7,0,1,1
+BKG0295,PT0270,2024-12-04,Wednesday,9,Dr. Priya Sharma,8,Knee Rehabilitation,Teleconsultation,Kazipet,3,0,1,0
+BKG0240,PT0106,2024-12-04,Wednesday,15,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Hanamkonda,10,1,1,0
+BKG0175,PT0144,2024-12-04,Wednesday,10,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Warangal,5,1,1,1
+BKG0062,PT0231,2024-12-04,Wednesday,10,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,3,0,1,1
+BKG0488,PT0270,2024-12-04,Wednesday,16,Dr. Meena Iyer,11,Post-Stroke Recovery,Teleconsultation,Kazipet,8,1,1,0
+BKG0617,PT0110,2024-12-04,Wednesday,16,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Kazipet,5,0,1,0
+BKG0730,PT0119,2024-12-05,Thursday,16,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Warangal,3,1,1,0
+BKG0058,PT0137,2024-12-05,Thursday,14,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Warangal,3,0,0,0
+BKG0535,PT0003,2024-12-05,Thursday,13,Dr. Priya Sharma,8,Knee Rehabilitation,Teleconsultation,Warangal,5,2,1,0
+BKG0424,PT0120,2024-12-05,Thursday,10,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Warangal,13,0,1,1
+BKG0802,PT0248,2024-12-05,Thursday,15,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,4,1,1,1
+BKG0554,PT0348,2024-12-05,Thursday,17,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Kazipet,5,1,0,1
+BKG0010,PT0071,2024-12-05,Thursday,17,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,4,0,1,0
+BKG0876,PT0282,2024-12-05,Thursday,11,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hanamkonda,8,0,1,1
+BKG0646,PT0002,2024-12-05,Thursday,13,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Warangal,1,3,1,0
+BKG0644,PT0250,2024-12-06,Friday,18,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Warangal,7,0,0,0
+BKG0026,PT0010,2024-12-06,Friday,16,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Hanamkonda,7,1,1,1
+BKG0207,PT0179,2024-12-06,Friday,15,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hanamkonda,6,2,1,0
+BKG0187,PT0072,2024-12-06,Friday,9,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Warangal,10,0,1,0
+BKG0230,PT0306,2024-12-06,Friday,14,Dr. Rohan Verma,2,Shoulder Injury,Teleconsultation,Kazipet,5,0,1,1
+BKG0480,PT0018,2024-12-06,Friday,14,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Hanamkonda,11,0,1,1
+BKG0203,PT0076,2024-12-06,Friday,10,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,2,0,1,0
+BKG0562,PT0263,2024-12-06,Friday,15,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,6,0,0,1
+BKG0556,PT0099,2024-12-06,Friday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hanamkonda,5,0,0,0
+BKG0531,PT0109,2024-12-06,Friday,12,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Warangal,5,0,0,1
+BKG0534,PT0134,2024-12-06,Friday,18,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Warangal,11,0,0,0
+BKG0509,PT0263,2024-12-07,Saturday,11,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,3,0,1,0
+BKG0654,PT0254,2024-12-07,Saturday,11,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Warangal,2,0,1,1
+BKG0743,PT0111,2024-12-07,Saturday,11,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Hanamkonda,4,0,1,0
+BKG0368,PT0072,2024-12-07,Saturday,12,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hanamkonda,1,0,1,0
+BKG0746,PT0297,2024-12-07,Saturday,17,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,2,0,1,0
+BKG0053,PT0260,2024-12-07,Saturday,19,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Warangal,5,2,0,1
+BKG0590,PT0269,2024-12-07,Saturday,13,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Kazipet,5,1,0,0
+BKG0613,PT0061,2024-12-07,Saturday,9,Dr. Meena Iyer,11,Arthritis,Home Visit,Warangal,5,0,1,0
+BKG0088,PT0092,2024-12-07,Saturday,14,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Warangal,9,1,1,0
+BKG0910,PT0089,2024-12-07,Saturday,12,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Kazipet,5,1,1,0
+BKG0067,PT0332,2024-12-08,Sunday,10,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Hanamkonda,9,0,1,0
+BKG0372,PT0221,2024-12-08,Sunday,19,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,11,1,1,0
+BKG0093,PT0187,2024-12-08,Sunday,16,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Warangal,2,0,1,0
+BKG0940,PT0318,2024-12-08,Sunday,15,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Kazipet,5,0,1,0
+BKG0401,PT0049,2024-12-08,Sunday,12,Dr. Rohan Verma,2,Arthritis,In-Clinic,Warangal,10,0,0,1
+BKG0497,PT0105,2024-12-08,Sunday,10,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Warangal,4,1,1,0
+BKG0066,PT0271,2024-12-09,Monday,19,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Kazipet,4,0,1,0
+BKG0276,PT0181,2024-12-09,Monday,12,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Warangal,9,0,0,1
+BKG0710,PT0273,2024-12-09,Monday,9,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Warangal,4,0,1,0
+BKG0150,PT0248,2024-12-09,Monday,18,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hanamkonda,8,0,1,0
+BKG0563,PT0111,2024-12-09,Monday,18,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,11,3,1,1
+BKG0379,PT0045,2024-12-09,Monday,16,Dr. Suresh Pillai,15,Arthritis,Home Visit,Kazipet,3,1,0,0
+BKG0586,PT0051,2024-12-09,Monday,15,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,6,0,1,1
+BKG0052,PT0238,2024-12-09,Monday,13,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Hanamkonda,2,2,1,0
+BKG0022,PT0203,2024-12-09,Monday,13,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Kazipet,12,1,1,1
+BKG0817,PT0100,2024-12-09,Monday,13,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Hanamkonda,12,2,0,1
+BKG0462,PT0322,2024-12-09,Monday,9,Dr. Meena Iyer,11,Sports Injury,Home Visit,Warangal,9,2,0,1
+BKG0099,PT0251,2024-12-09,Monday,11,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Warangal,9,1,1,1
+BKG0165,PT0225,2024-12-10,Tuesday,15,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Kazipet,3,1,1,0
+BKG0823,PT0124,2024-12-10,Tuesday,10,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Warangal,6,0,1,0
+BKG0794,PT0110,2024-12-10,Tuesday,10,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Kazipet,2,1,1,0
+BKG0891,PT0068,2024-12-10,Tuesday,14,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Hanamkonda,11,2,1,1
+BKG0023,PT0306,2024-12-10,Tuesday,15,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Warangal,4,0,1,1
+BKG0894,PT0078,2024-12-10,Tuesday,11,Dr. Suresh Pillai,15,Arthritis,Home Visit,Hanamkonda,2,0,0,0
+BKG0775,PT0257,2024-12-10,Tuesday,19,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Hanamkonda,1,1,1,1
+BKG0757,PT0216,2024-12-10,Tuesday,9,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Hanamkonda,4,0,1,0
+BKG0525,PT0173,2024-12-10,Tuesday,10,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Warangal,9,1,1,0
+BKG0440,PT0224,2024-12-11,Wednesday,10,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Hanamkonda,9,0,1,0
+BKG0915,PT0114,2024-12-11,Wednesday,11,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Hanamkonda,4,0,0,0
+BKG0744,PT0313,2024-12-11,Wednesday,10,Dr. Arjun Nair,3,Sports Injury,Teleconsultation,Warangal,8,0,0,1
+BKG0029,PT0274,2024-12-11,Wednesday,13,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hanamkonda,4,0,0,0
+BKG0095,PT0023,2024-12-11,Wednesday,12,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Kazipet,7,1,1,0
+BKG0614,PT0004,2024-12-11,Wednesday,17,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Warangal,10,3,1,0
+BKG0861,PT0089,2024-12-11,Wednesday,12,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Hanamkonda,10,1,0,0
+BKG0123,PT0148,2024-12-11,Wednesday,10,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Hanamkonda,2,1,1,0
+BKG0385,PT0010,2024-12-11,Wednesday,16,Dr. Priya Sharma,8,Arthritis,Home Visit,Warangal,2,3,0,1
+BKG0548,PT0283,2024-12-11,Wednesday,14,Dr. Arjun Nair,3,Sports Injury,Home Visit,Kazipet,10,0,1,0
+BKG0252,PT0226,2024-12-11,Wednesday,11,Dr. Suresh Pillai,15,Arthritis,Home Visit,Warangal,8,0,0,0
+BKG0909,PT0068,2024-12-11,Wednesday,17,Dr. Arjun Nair,3,Arthritis,Teleconsultation,Hanamkonda,4,0,1,1
+BKG0179,PT0332,2024-12-11,Wednesday,9,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hanamkonda,3,1,0,0
+BKG0948,PT0318,2024-12-12,Thursday,13,Dr. Arjun Nair,3,Sports Injury,Home Visit,Kazipet,9,0,1,1
+BKG0467,PT0304,2024-12-12,Thursday,13,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Kazipet,4,0,1,0
+BKG0716,PT0064,2024-12-12,Thursday,9,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Warangal,8,1,1,1
+BKG0878,PT0072,2024-12-12,Thursday,18,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Hanamkonda,5,0,1,0
+BKG0081,PT0068,2024-12-13,Friday,11,Dr. Rohan Verma,2,Sports Injury,Teleconsultation,Kazipet,9,1,0,0
+BKG0905,PT0196,2024-12-13,Friday,16,Dr. Suresh Pillai,15,Sports Injury,Teleconsultation,Warangal,9,0,1,0
+BKG0603,PT0139,2024-12-13,Friday,9,Dr. Kavitha Reddy,6,Sports Injury,Teleconsultation,Warangal,2,2,1,0
+BKG0543,PT0187,2024-12-13,Friday,13,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Hanamkonda,13,2,1,1
+BKG0702,PT0288,2024-12-13,Friday,10,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Warangal,8,1,1,1
+BKG0072,PT0106,2024-12-13,Friday,19,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hanamkonda,4,2,1,1
+BKG0897,PT0218,2024-12-13,Friday,12,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Warangal,6,1,0,0
+BKG0151,PT0289,2024-12-13,Friday,15,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,10,0,1,0
+BKG0918,PT0128,2024-12-13,Friday,17,Dr. Meena Iyer,11,Lower Back Pain,Teleconsultation,Kazipet,11,3,0,1
+BKG0692,PT0113,2024-12-14,Saturday,10,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hanamkonda,5,3,1,0
+BKG0780,PT0134,2024-12-14,Saturday,13,Dr. Suresh Pillai,15,Lower Back Pain,Teleconsultation,Hanamkonda,9,0,1,0
+BKG0779,PT0272,2024-12-14,Saturday,10,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Warangal,5,0,1,0
+BKG0750,PT0216,2024-12-14,Saturday,14,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Warangal,2,0,1,1
+BKG0196,PT0300,2024-12-14,Saturday,16,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Hanamkonda,2,0,0,0
+BKG0673,PT0056,2024-12-14,Saturday,15,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Kazipet,9,0,1,0
+BKG0365,PT0123,2024-12-14,Saturday,10,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Hanamkonda,4,0,0,0
+BKG0439,PT0062,2024-12-14,Saturday,15,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Warangal,10,1,1,1
+BKG0572,PT0155,2024-12-14,Saturday,15,Dr. Priya Sharma,8,Knee Rehabilitation,Teleconsultation,Warangal,1,0,1,0
+BKG0086,PT0126,2024-12-14,Saturday,14,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Warangal,7,0,1,1
+BKG0101,PT0028,2024-12-14,Saturday,18,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hanamkonda,7,1,1,1
+BKG0664,PT0236,2024-12-15,Sunday,14,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Warangal,3,0,1,0
+BKG0740,PT0121,2024-12-15,Sunday,17,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Hanamkonda,4,0,1,0
+BKG0741,PT0316,2024-12-15,Sunday,18,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Hanamkonda,12,0,1,0
+BKG0253,PT0029,2024-12-15,Sunday,15,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Warangal,11,0,1,0
+BKG0549,PT0139,2024-12-15,Sunday,11,Dr. Rohan Verma,2,Post-Stroke Recovery,Teleconsultation,Warangal,8,0,1,1
+BKG0039,PT0098,2024-12-15,Sunday,13,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hanamkonda,12,0,0,0
+BKG0511,PT0098,2024-12-15,Sunday,13,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,3,0,1,0
+BKG0541,PT0338,2024-12-15,Sunday,17,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hanamkonda,4,0,0,0
+BKG0718,PT0136,2024-12-15,Sunday,13,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Warangal,10,0,1,0
+BKG0917,PT0325,2024-12-15,Sunday,13,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Warangal,13,0,0,0
+BKG0706,PT0019,2024-12-16,Monday,13,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Warangal,1,0,1,0
+BKG0306,PT0340,2024-12-16,Monday,14,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Warangal,5,0,1,0
+BKG0373,PT0040,2024-12-16,Monday,9,Dr. Priya Sharma,8,Arthritis,Home Visit,Hanamkonda,9,1,0,0
+BKG0307,PT0090,2024-12-16,Monday,11,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Hanamkonda,8,0,1,0
+BKG0886,PT0164,2024-12-16,Monday,10,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Hanamkonda,4,1,1,0
+BKG0188,PT0093,2024-12-16,Monday,16,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,8,0,1,1
+BKG0846,PT0333,2024-12-16,Monday,13,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Kazipet,14,3,1,0
+BKG0455,PT0301,2024-12-16,Monday,10,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Warangal,5,0,0,1
+BKG0173,PT0207,2024-12-16,Monday,17,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Hanamkonda,4,2,1,0
+BKG0868,PT0183,2024-12-16,Monday,14,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Warangal,7,3,1,1
+BKG0309,PT0047,2024-12-17,Tuesday,15,Dr. Meena Iyer,11,Sports Injury,Home Visit,Kazipet,10,0,1,0
+BKG0872,PT0102,2024-12-17,Tuesday,9,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Hanamkonda,12,3,1,0
+BKG0800,PT0048,2024-12-17,Tuesday,14,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Warangal,11,2,1,0
+BKG0723,PT0194,2024-12-17,Tuesday,10,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hanamkonda,1,2,0,0
+BKG0027,PT0266,2024-12-17,Tuesday,14,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Warangal,9,0,1,0
+BKG0304,PT0034,2024-12-17,Tuesday,12,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Kazipet,3,0,1,0
+BKG0880,PT0117,2024-12-17,Tuesday,13,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Hanamkonda,5,0,1,0
+BKG0312,PT0202,2024-12-17,Tuesday,13,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Warangal,12,1,0,1
+BKG0064,PT0258,2024-12-17,Tuesday,15,Dr. Rohan Verma,2,Sports Injury,Home Visit,Warangal,10,0,1,1
+BKG0688,PT0008,2024-12-17,Tuesday,13,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,12,1,1,0
+BKG0286,PT0083,2024-12-17,Tuesday,9,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Kazipet,9,0,0,0
+BKG0833,PT0283,2024-12-18,Wednesday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hanamkonda,3,2,1,0
+BKG0279,PT0139,2024-12-18,Wednesday,15,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Warangal,1,0,1,0
+BKG0504,PT0320,2024-12-18,Wednesday,15,Dr. Priya Sharma,8,Lower Back Pain,Teleconsultation,Kazipet,3,1,1,0
+BKG0675,PT0049,2024-12-18,Wednesday,14,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hanamkonda,7,2,1,0
+BKG0874,PT0033,2024-12-18,Wednesday,18,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Kazipet,12,1,0,0
+BKG0545,PT0233,2024-12-18,Wednesday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Kazipet,3,0,1,0
+BKG0782,PT0275,2024-12-18,Wednesday,10,Dr. Arjun Nair,3,Sports Injury,Teleconsultation,Warangal,11,0,1,1
+BKG0363,PT0074,2024-12-18,Wednesday,16,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hanamkonda,5,2,1,0
+BKG0753,PT0161,2024-12-18,Wednesday,14,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Hanamkonda,10,0,1,0
+BKG0778,PT0036,2024-12-18,Wednesday,11,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Warangal,11,0,0,0
+BKG0557,PT0053,2024-12-18,Wednesday,13,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hanamkonda,10,3,1,0
+BKG0771,PT0075,2024-12-18,Wednesday,9,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Warangal,7,2,0,1
+BKG0396,PT0340,2024-12-18,Wednesday,11,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Warangal,11,3,1,0
+BKG0498,PT0102,2024-12-19,Thursday,19,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Kazipet,7,0,1,0
+BKG0583,PT0095,2024-12-19,Thursday,15,Dr. Meena Iyer,11,Cervical Spondylosis,Teleconsultation,Kazipet,3,0,1,0
+BKG0542,PT0103,2024-12-19,Thursday,19,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Warangal,9,3,0,0
+BKG0318,PT0224,2024-12-19,Thursday,12,Dr. Meena Iyer,11,Sports Injury,Home Visit,Warangal,3,0,1,0
+BKG0760,PT0046,2024-12-19,Thursday,16,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Hanamkonda,3,2,0,0
+BKG0333,PT0275,2024-12-19,Thursday,10,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Hanamkonda,5,0,1,0
+BKG0824,PT0162,2024-12-19,Thursday,14,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Hanamkonda,1,0,1,0
+BKG0277,PT0132,2024-12-19,Thursday,9,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Warangal,3,0,0,1
+BKG0522,PT0262,2024-12-19,Thursday,12,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Kazipet,4,0,0,0
+BKG0227,PT0180,2024-12-20,Friday,11,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Warangal,3,0,1,1
+BKG0781,PT0068,2024-12-20,Friday,18,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,3,0,1,0
+BKG0113,PT0314,2024-12-20,Friday,15,Dr. Arjun Nair,3,Lower Back Pain,Teleconsultation,Warangal,3,0,1,0
+BKG0260,PT0258,2024-12-20,Friday,13,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Warangal,10,3,1,0
+BKG0671,PT0057,2024-12-20,Friday,11,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Kazipet,3,0,1,0
+BKG0470,PT0081,2024-12-20,Friday,15,Dr. Suresh Pillai,15,Arthritis,Teleconsultation,Hanamkonda,8,0,1,0
+BKG0154,PT0129,2024-12-20,Friday,9,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,4,0,1,1
+BKG0258,PT0104,2024-12-20,Friday,16,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Kazipet,3,2,1,1
+BKG0921,PT0064,2024-12-21,Saturday,14,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Warangal,2,0,0,0
+BKG0680,PT0211,2024-12-21,Saturday,14,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,2,0,1,0
+BKG0206,PT0166,2024-12-21,Saturday,12,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Kazipet,4,2,1,1
+BKG0185,PT0109,2024-12-21,Saturday,13,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Hanamkonda,4,0,1,0
+BKG0061,PT0248,2024-12-21,Saturday,15,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Warangal,2,1,1,0
+BKG0660,PT0165,2024-12-21,Saturday,11,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Warangal,10,0,1,0
+BKG0159,PT0159,2024-12-21,Saturday,15,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Warangal,10,0,1,1
+BKG0685,PT0046,2024-12-22,Sunday,13,Dr. Rohan Verma,2,Lower Back Pain,Teleconsultation,Hanamkonda,3,1,1,0
+BKG0004,PT0033,2024-12-22,Sunday,9,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hanamkonda,3,1,1,0
+BKG0315,PT0111,2024-12-22,Sunday,13,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Warangal,10,0,1,0
+BKG0933,PT0245,2024-12-22,Sunday,18,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Kazipet,4,0,1,0
+BKG0191,PT0096,2024-12-22,Sunday,17,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Warangal,4,0,1,0
+BKG0460,PT0058,2024-12-22,Sunday,12,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hanamkonda,12,0,1,0
+BKG0220,PT0284,2024-12-22,Sunday,12,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hanamkonda,7,0,0,0
+BKG0724,PT0103,2024-12-22,Sunday,17,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Warangal,10,2,1,0
+BKG0875,PT0041,2024-12-22,Sunday,16,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,5,0,1,0
+BKG0051,PT0319,2024-12-22,Sunday,10,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Hanamkonda,5,0,0,1
+BKG0574,PT0025,2024-12-22,Sunday,16,Dr. Rohan Verma,2,Sports Injury,Home Visit,Warangal,2,3,1,0
+BKG0156,PT0280,2024-12-23,Monday,9,Dr. Priya Sharma,8,Arthritis,In-Clinic,Kazipet,4,0,1,0
+BKG0355,PT0083,2024-12-23,Monday,13,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Warangal,1,0,0,0
+BKG0195,PT0327,2024-12-23,Monday,13,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Kazipet,3,0,1,1
+BKG0364,PT0002,2024-12-23,Monday,15,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Warangal,6,0,1,0
+BKG0294,PT0119,2024-12-23,Monday,13,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Hanamkonda,2,0,0,0
+BKG0631,PT0099,2024-12-23,Monday,10,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,5,0,1,0
+BKG0739,PT0104,2024-12-23,Monday,13,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Kazipet,7,0,1,1
+BKG0331,PT0263,2024-12-24,Tuesday,10,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,7,0,1,1
+BKG0849,PT0292,2024-12-24,Tuesday,16,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Hanamkonda,2,3,1,0
+BKG0502,PT0137,2024-12-24,Tuesday,17,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Kazipet,6,0,0,1
+BKG0763,PT0039,2024-12-24,Tuesday,14,Dr. Suresh Pillai,15,Post-Stroke Recovery,Teleconsultation,Hanamkonda,12,0,1,0
+BKG0907,PT0017,2024-12-24,Tuesday,17,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Warangal,6,1,1,0
+BKG0831,PT0024,2024-12-24,Tuesday,10,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Kazipet,7,0,1,0
+BKG0131,PT0132,2024-12-24,Tuesday,11,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Warangal,4,1,1,0
+BKG0902,PT0253,2024-12-24,Tuesday,15,Dr. Meena Iyer,11,Sports Injury,Home Visit,Warangal,14,0,1,0
+BKG0788,PT0218,2024-12-24,Tuesday,10,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Warangal,6,0,1,0
+BKG0007,PT0255,2024-12-24,Tuesday,16,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,2,0,1,0
+BKG0519,PT0287,2024-12-25,Wednesday,13,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Hanamkonda,12,1,0,0
+BKG0421,PT0272,2024-12-25,Wednesday,15,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Hanamkonda,5,0,1,0
+BKG0620,PT0321,2024-12-25,Wednesday,13,Dr. Meena Iyer,11,Arthritis,Home Visit,Warangal,14,0,1,0
+BKG0243,PT0073,2024-12-25,Wednesday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Warangal,4,2,1,0
+BKG0532,PT0171,2024-12-25,Wednesday,11,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Warangal,7,0,1,1
+BKG0593,PT0026,2024-12-25,Wednesday,13,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Kazipet,4,1,1,1
+BKG0575,PT0111,2024-12-25,Wednesday,17,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Hanamkonda,10,1,1,0
+BKG0587,PT0064,2024-12-25,Wednesday,9,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,8,2,1,0
+BKG0628,PT0016,2024-12-25,Wednesday,14,Dr. Rohan Verma,2,Knee Rehabilitation,Teleconsultation,Warangal,5,1,1,1
+BKG0893,PT0188,2024-12-25,Wednesday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Hanamkonda,9,3,1,0
+BKG0658,PT0063,2024-12-25,Wednesday,11,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Warangal,4,1,1,0
+BKG0850,PT0342,2024-12-26,Thursday,11,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Hanamkonda,5,1,1,0
+BKG0082,PT0186,2024-12-26,Thursday,10,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Warangal,3,1,1,1
+BKG0328,PT0156,2024-12-26,Thursday,14,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Warangal,9,0,1,0
+BKG0345,PT0251,2024-12-27,Friday,9,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Warangal,2,2,1,0
+BKG0270,PT0236,2024-12-27,Friday,9,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Warangal,3,1,1,0
+BKG0213,PT0166,2024-12-27,Friday,17,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Kazipet,12,0,1,0
+BKG0508,PT0020,2024-12-27,Friday,18,Dr. Priya Sharma,8,Fracture Recovery,Teleconsultation,Warangal,3,0,0,0
+BKG0752,PT0196,2024-12-27,Friday,15,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hanamkonda,3,1,1,0
+BKG0036,PT0043,2024-12-27,Friday,17,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Kazipet,2,2,1,0
+BKG0547,PT0226,2024-12-27,Friday,16,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Kazipet,4,2,0,0
+BKG0785,PT0220,2024-12-27,Friday,16,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Hanamkonda,6,1,0,0
+BKG0463,PT0119,2024-12-27,Friday,11,Dr. Arjun Nair,3,Sports Injury,Home Visit,Kazipet,10,3,0,1
+BKG0712,PT0167,2024-12-27,Friday,9,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Warangal,14,0,0,0
+BKG0361,PT0050,2024-12-27,Friday,15,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Kazipet,5,2,1,0
+BKG0189,PT0071,2024-12-28,Saturday,15,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Warangal,7,0,1,1
+BKG0204,PT0233,2024-12-28,Saturday,15,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Warangal,3,0,1,0
+BKG0690,PT0190,2024-12-28,Saturday,19,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Warangal,2,0,1,0
+BKG0811,PT0172,2024-12-28,Saturday,9,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Hanamkonda,2,0,0,1
+BKG0303,PT0115,2024-12-28,Saturday,16,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hanamkonda,4,2,0,0
+BKG0703,PT0071,2024-12-28,Saturday,17,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Hanamkonda,6,2,1,1
+BKG0571,PT0018,2024-12-28,Saturday,13,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Warangal,11,0,1,0
+BKG0103,PT0166,2024-12-28,Saturday,12,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,9,0,1,0
+BKG0483,PT0297,2024-12-28,Saturday,11,Dr. Suresh Pillai,15,Arthritis,Home Visit,Hanamkonda,11,0,0,1
+BKG0472,PT0014,2024-12-28,Saturday,12,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Kazipet,5,0,1,0
+BKG0366,PT0197,2024-12-28,Saturday,18,Dr. Rohan Verma,2,Sports Injury,Home Visit,Hanamkonda,8,1,1,0
+BKG0249,PT0159,2024-12-28,Saturday,12,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Hanamkonda,3,2,1,0
+BKG0755,PT0324,2024-12-29,Sunday,9,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Warangal,10,1,1,0
+BKG0084,PT0236,2024-12-29,Sunday,17,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Warangal,3,0,0,0
+BKG0550,PT0014,2024-12-29,Sunday,16,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Hanamkonda,8,2,1,1
+BKG0733,PT0199,2024-12-29,Sunday,10,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Hanamkonda,1,1,0,0
+BKG0707,PT0333,2024-12-29,Sunday,11,Dr. Meena Iyer,11,Arthritis,Home Visit,Warangal,12,0,0,0
+BKG0639,PT0265,2024-12-29,Sunday,10,Dr. Kavitha Reddy,6,Shoulder Injury,Teleconsultation,Hanamkonda,5,0,1,0
+BKG0924,PT0166,2024-12-29,Sunday,10,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Hanamkonda,13,0,1,0
+BKG0311,PT0067,2024-12-29,Sunday,11,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Kazipet,13,1,1,0
+BKG0717,PT0117,2024-12-29,Sunday,14,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hanamkonda,5,0,1,0
+BKG0797,PT0277,2024-12-29,Sunday,17,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,1,0,1,1
+BKG0546,PT0012,2024-12-29,Sunday,15,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Kazipet,1,1,1,1
+BKG0758,PT0045,2024-12-29,Sunday,9,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Kazipet,6,0,1,1
+BKG0375,PT0290,2024-12-30,Monday,12,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Hanamkonda,4,0,0,0
+BKG0916,PT0236,2024-12-30,Monday,18,Dr. Meena Iyer,11,Arthritis,Teleconsultation,Hanamkonda,2,0,1,0
+BKG0340,PT0102,2024-12-30,Monday,9,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Hanamkonda,4,0,1,0
+BKG0410,PT0232,2024-12-30,Monday,12,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Warangal,3,1,1,1
+BKG0046,PT0263,2024-12-30,Monday,13,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Hanamkonda,8,0,0,0
+BKG0606,PT0225,2024-12-31,Tuesday,14,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Warangal,9,3,0,1
+BKG0068,PT0271,2024-12-31,Tuesday,13,Dr. Priya Sharma,8,Sports Injury,Teleconsultation,Hanamkonda,9,0,1,0
+BKG0709,PT0009,2024-12-31,Tuesday,16,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Kazipet,8,0,1,0
+BKG0013,PT0247,2024-12-31,Tuesday,13,Dr. Suresh Pillai,15,Arthritis,Home Visit,Warangal,3,3,1,1
+BKG0736,PT0214,2025-01-01,Wednesday,13,Dr. Arjun Nair,3,Knee Rehabilitation,Teleconsultation,Warangal,5,0,1,0
+BKG0484,PT0163,2025-01-01,Wednesday,16,Dr. Suresh Pillai,15,Lower Back Pain,Teleconsultation,Hanamkonda,4,1,1,0
+BKG0735,PT0021,2025-01-01,Wednesday,14,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Hanamkonda,10,0,1,0
+BKG0136,PT0335,2025-01-01,Wednesday,15,Dr. Rohan Verma,2,Arthritis,In-Clinic,Hanamkonda,10,1,1,0
+BKG0693,PT0288,2025-01-01,Wednesday,12,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Hanamkonda,6,3,0,0
+BKG0669,PT0310,2025-01-01,Wednesday,15,Dr. Suresh Pillai,15,Post-Stroke Recovery,Teleconsultation,Kazipet,4,0,1,0
+BKG0648,PT0236,2025-01-01,Wednesday,12,Dr. Rohan Verma,2,Sports Injury,Home Visit,Warangal,2,2,1,1
+BKG0422,PT0131,2025-01-01,Wednesday,11,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Warangal,4,0,1,1
+BKG0632,PT0139,2025-01-01,Wednesday,17,Dr. Priya Sharma,8,Sports Injury,Home Visit,Hanamkonda,12,0,0,0
+BKG0931,PT0020,2025-01-01,Wednesday,15,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Hanamkonda,12,0,0,1
+BKG0092,PT0187,2025-01-01,Wednesday,11,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Warangal,8,0,1,0
+BKG0278,PT0257,2025-01-01,Wednesday,10,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Hanamkonda,3,0,1,1
+BKG0289,PT0218,2025-01-01,Wednesday,12,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,11,0,0,0
+BKG0144,PT0281,2025-01-02,Thursday,10,Dr. Suresh Pillai,15,Arthritis,Home Visit,Warangal,10,0,0,1
+BKG0393,PT0335,2025-01-02,Thursday,18,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Kazipet,9,2,0,0
+BKG0727,PT0164,2025-01-02,Thursday,15,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,13,0,0,1
+BKG0412,PT0072,2025-01-02,Thursday,12,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Hanamkonda,5,2,1,1
+BKG0914,PT0097,2025-01-02,Thursday,13,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Hanamkonda,4,1,0,1
+BKG0351,PT0031,2025-01-02,Thursday,13,Dr. Meena Iyer,11,Arthritis,Teleconsultation,Kazipet,4,3,1,0
+BKG0075,PT0095,2025-01-02,Thursday,18,Dr. Priya Sharma,8,Knee Rehabilitation,Teleconsultation,Warangal,8,0,1,0
+BKG0670,PT0096,2025-01-02,Thursday,13,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Warangal,12,0,1,0
+BKG0411,PT0322,2025-01-02,Thursday,17,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Hanamkonda,11,1,1,1
+BKG0859,PT0097,2025-01-02,Thursday,15,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Warangal,9,0,1,0
+BKG0830,PT0122,2025-01-02,Thursday,14,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Hanamkonda,2,0,1,1
+BKG0832,PT0323,2025-01-02,Thursday,15,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,7,0,0,0
+BKG0327,PT0108,2025-01-02,Thursday,18,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Warangal,6,0,1,0
+BKG0494,PT0119,2025-01-02,Thursday,13,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Hanamkonda,10,3,0,1
+BKG0793,PT0114,2025-01-02,Thursday,19,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Kazipet,2,1,1,1
+BKG0783,PT0316,2025-01-02,Thursday,19,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Warangal,5,0,1,1
+BKG0759,PT0053,2025-01-02,Thursday,15,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Warangal,1,0,1,1
+BKG0425,PT0195,2025-01-03,Friday,13,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Hanamkonda,4,3,1,0
+BKG0515,PT0066,2025-01-03,Friday,15,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Hanamkonda,8,1,0,1
+BKG0359,PT0241,2025-01-03,Friday,14,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Hanamkonda,7,1,1,0
+BKG0138,PT0346,2025-01-03,Friday,18,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Warangal,3,1,0,1
+BKG0406,PT0051,2025-01-03,Friday,12,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Warangal,5,0,1,0
+BKG0920,PT0053,2025-01-03,Friday,11,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Kazipet,6,0,1,1
+BKG0936,PT0342,2025-01-03,Friday,15,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Kazipet,10,0,1,0
+BKG0371,PT0116,2025-01-04,Saturday,17,Dr. Rohan Verma,2,Arthritis,Home Visit,Hanamkonda,14,2,0,1
+BKG0242,PT0250,2025-01-04,Saturday,13,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hanamkonda,8,0,1,1
+BKG0657,PT0228,2025-01-04,Saturday,14,Dr. Priya Sharma,8,Arthritis,In-Clinic,Warangal,9,3,0,1
+BKG0388,PT0107,2025-01-04,Saturday,13,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hanamkonda,2,3,1,0
+BKG0350,PT0130,2025-01-04,Saturday,13,Dr. Priya Sharma,8,Arthritis,Home Visit,Hanamkonda,6,0,1,0
+BKG0237,PT0223,2025-01-04,Saturday,15,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Warangal,4,0,0,0
+BKG0459,PT0006,2025-01-04,Saturday,17,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,7,0,0,0
+BKG0607,PT0075,2025-01-05,Sunday,14,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Warangal,4,0,1,1
+BKG0254,PT0289,2025-01-05,Sunday,12,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Warangal,3,0,1,0
+BKG0215,PT0305,2025-01-05,Sunday,12,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Warangal,12,1,1,1
+BKG0826,PT0183,2025-01-05,Sunday,16,Dr. Priya Sharma,8,Sports Injury,Home Visit,Hanamkonda,2,2,1,0
+BKG0479,PT0013,2025-01-05,Sunday,15,Dr. Rohan Verma,2,Arthritis,Home Visit,Warangal,3,0,1,1
+BKG0529,PT0065,2025-01-05,Sunday,9,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Warangal,8,0,1,0
+BKG0500,PT0099,2025-01-05,Sunday,14,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Kazipet,7,0,0,1
+BKG0666,PT0178,2025-01-05,Sunday,16,Dr. Meena Iyer,11,Post-Stroke Recovery,Teleconsultation,Kazipet,9,1,0,0
+BKG0427,PT0010,2025-01-05,Sunday,15,Dr. Meena Iyer,11,Arthritis,Home Visit,Kazipet,3,0,0,0
+BKG0367,PT0185,2025-01-05,Sunday,14,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Warangal,11,0,1,0
+BKG0761,PT0175,2025-01-05,Sunday,10,Dr. Priya Sharma,8,Sports Injury,Home Visit,Kazipet,10,1,1,1
+BKG0008,PT0296,2025-01-06,Monday,17,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Warangal,4,0,1,1
+BKG0390,PT0059,2025-01-06,Monday,15,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Warangal,7,0,1,0
+BKG0314,PT0021,2025-01-06,Monday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Warangal,4,0,1,1
+BKG0589,PT0291,2025-01-06,Monday,12,Dr. Meena Iyer,11,Arthritis,Teleconsultation,Kazipet,12,0,1,0
+BKG0164,PT0334,2025-01-06,Monday,17,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Warangal,2,0,0,1
+BKG0939,PT0317,2025-01-06,Monday,11,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Warangal,4,2,1,0
+BKG0055,PT0252,2025-01-06,Monday,13,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Warangal,4,0,1,1
+BKG0756,PT0046,2025-01-06,Monday,13,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Warangal,9,0,1,0
+BKG0381,PT0326,2025-01-06,Monday,15,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Hanamkonda,5,0,0,1
+BKG0050,PT0246,2025-01-06,Monday,12,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Warangal,1,1,1,0
+BKG0729,PT0084,2025-01-06,Monday,14,Dr. Suresh Pillai,15,Arthritis,Home Visit,Hanamkonda,8,1,0,0
+BKG0637,PT0275,2025-01-06,Monday,17,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Warangal,4,0,1,0
+BKG0447,PT0175,2025-01-06,Monday,11,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Hanamkonda,5,2,0,0
+BKG0012,PT0065,2025-01-07,Tuesday,17,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Warangal,12,1,0,0
+BKG0019,PT0100,2025-01-07,Tuesday,14,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Hanamkonda,4,2,0,0
+BKG0929,PT0012,2025-01-07,Tuesday,13,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Hanamkonda,3,2,1,0
+BKG0130,PT0305,2025-01-07,Tuesday,16,Dr. Suresh Pillai,15,Post-Stroke Recovery,Teleconsultation,Warangal,7,0,1,0
+BKG0888,PT0237,2025-01-07,Tuesday,11,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Warangal,4,0,1,0
+BKG0400,PT0262,2025-01-07,Tuesday,17,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Hanamkonda,12,0,0,1
+BKG0234,PT0340,2025-01-07,Tuesday,12,Dr. Arjun Nair,3,Sports Injury,Home Visit,Warangal,5,1,1,1
+BKG0748,PT0111,2025-01-07,Tuesday,10,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Warangal,7,1,0,1
+BKG0825,PT0334,2025-01-07,Tuesday,10,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Kazipet,8,2,1,0
+BKG0335,PT0108,2025-01-07,Tuesday,16,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Hanamkonda,2,0,0,0
+BKG0326,PT0280,2025-01-07,Tuesday,10,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Warangal,5,1,1,0
+BKG0016,PT0246,2025-01-07,Tuesday,11,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Hanamkonda,1,3,1,1
+BKG0726,PT0269,2025-01-08,Wednesday,16,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Hanamkonda,3,0,1,0
+BKG0866,PT0006,2025-01-08,Wednesday,12,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Warangal,6,0,0,0
+BKG0695,PT0273,2025-01-08,Wednesday,11,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Warangal,2,3,0,0
+BKG0005,PT0093,2025-01-08,Wednesday,16,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Warangal,2,0,1,0
+BKG0324,PT0030,2025-01-08,Wednesday,10,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Warangal,3,0,0,0
+BKG0456,PT0338,2025-01-08,Wednesday,17,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Kazipet,7,1,1,0
+BKG0121,PT0022,2025-01-08,Wednesday,10,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hanamkonda,1,2,0,1
+BKG0128,PT0252,2025-01-08,Wednesday,14,Dr. Arjun Nair,3,Knee Rehabilitation,Teleconsultation,Hanamkonda,2,0,1,0
+BKG0809,PT0004,2025-01-08,Wednesday,10,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Hanamkonda,4,0,1,0
+BKG0035,PT0254,2025-01-08,Wednesday,12,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Hanamkonda,4,1,1,0
+BKG0812,PT0123,2025-01-08,Wednesday,18,Dr. Meena Iyer,11,Sports Injury,Home Visit,Hanamkonda,7,3,1,1
+BKG0432,PT0027,2025-01-08,Wednesday,19,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Warangal,2,2,1,0
+BKG0708,PT0313,2025-01-09,Thursday,17,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,2,1,1,0
+BKG0834,PT0299,2025-01-09,Thursday,14,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Hanamkonda,5,0,1,0
+BKG0339,PT0170,2025-01-09,Thursday,19,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Kazipet,14,1,1,0
+BKG0600,PT0024,2025-01-09,Thursday,12,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Kazipet,7,0,0,0
+BKG0416,PT0343,2025-01-09,Thursday,9,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Warangal,5,0,0,1
+BKG0444,PT0219,2025-01-09,Thursday,12,Dr. Arjun Nair,3,Arthritis,Home Visit,Warangal,2,0,0,1
+BKG0032,PT0083,2025-01-09,Thursday,13,Dr. Rohan Verma,2,Shoulder Injury,Teleconsultation,Kazipet,6,0,1,1
+BKG0848,PT0086,2025-01-09,Thursday,14,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Warangal,7,0,1,0
+BKG0033,PT0226,2025-01-09,Thursday,9,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Hanamkonda,4,1,1,1
+BKG0434,PT0098,2025-01-09,Thursday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hanamkonda,5,2,1,0
+BKG0791,PT0201,2025-01-09,Thursday,14,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Hanamkonda,5,0,1,0
+BKG0382,PT0123,2025-01-10,Friday,15,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Hanamkonda,8,0,1,0
+BKG0699,PT0090,2025-01-10,Friday,9,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Kazipet,8,1,1,1
+BKG0116,PT0135,2025-01-10,Friday,9,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Hanamkonda,7,1,1,0
+BKG0139,PT0083,2025-01-10,Friday,16,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Hanamkonda,12,0,1,0
+BKG0417,PT0281,2025-01-10,Friday,13,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,4,1,1,0
+BKG0611,PT0224,2025-01-10,Friday,12,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Hanamkonda,5,0,0,0
+BKG0430,PT0136,2025-01-10,Friday,16,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Warangal,3,0,1,1
+BKG0691,PT0170,2025-01-10,Friday,12,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Kazipet,4,0,0,0
+BKG0293,PT0341,2025-01-10,Friday,13,Dr. Suresh Pillai,15,Arthritis,Home Visit,Warangal,4,2,1,1
+BKG0879,PT0286,2025-01-10,Friday,18,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hanamkonda,2,2,1,1
+BKG0397,PT0007,2025-01-10,Friday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Warangal,8,3,1,0
+BKG0419,PT0138,2025-01-10,Friday,13,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Kazipet,1,2,1,1
