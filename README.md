@@ -1,7 +1,7 @@
 # 🏥 VitaCure Healthcare — No-Show Prediction & Demand Forecasting
 
-**Internship Project (Phase 2) | VitaCure Healthcare Private Limited**  
-**Analyst:** A. Shanthan Kumar | **Period:** October 2025 – January 2026  
+**Internship Project | VitaCure Healthcare Private Limited**  
+**Analyst:** A. Shanthan Kumar | **Period:** April 2026 – June 2026  
 **Tools:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Streamlit · Plotly · SQL
 
 ---
@@ -16,7 +16,7 @@
 
 ## 📌 Project Overview
 
-This is the second phase of a Data Analyst internship at VitaCure Healthcare, a physiotherapy startup. Phase 1 (Jul–Oct 2025) delivered a Power BI dashboard for operational visibility into revenue, cancellations, and therapist performance. Phase 2 builds on that foundation by moving from **descriptive analytics** (what happened) to **predictive analytics** (what's likely to happen next).
+This is the second analytics project completed during a Data Analyst internship at VitaCure Healthcare, a home healthcare startup based in Warangal, Telangana. The first project (January – March 2026) delivered a Power BI dashboard for operational visibility into revenue, cancellations, and therapist performance. This project builds on that foundation by moving from **descriptive analytics** (what happened) to **predictive analytics** (what's likely to happen next).
 
 **Business Problem:** Front-desk staff had no way to anticipate which upcoming bookings were at high risk of a no-show, making it hard to prioritize confirmation calls and reminder outreach.
 
@@ -123,9 +123,9 @@ streamlit run app.py
 
 ## 🔗 Related Project
 
-📊 **Phase 1 — VitaCure Operations Analytics Dashboard (Power BI)**  
+📊 **VitaCure Operations Analytics Dashboard (Power BI)**  
 [https://github.com/ashanthan03/vitacure-healthcare-analytics](https://github.com/ashanthan03/vitacure-healthcare-analytics)
 
 ---
 
-*Built as Phase 2 of a Data Analyst Internship at VitaCure Healthcare Private Limited, extending the Phase 1 operations dashboard into predictive analytics.*
+*Built as part of a Data Analyst Internship at VitaCure Healthcare Private Limited, Warangal, Telangana.*
